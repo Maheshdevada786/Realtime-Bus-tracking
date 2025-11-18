@@ -1,0 +1,7338 @@
+[
+  {
+    "route_id": "r10831516",
+    "service_id": "Mo-Su",
+    "trip_id": "r10525436_Mo-Su",
+    "trip_headsign": "Nedungad",
+    "direction_id": "0",
+    "shape_id": "r10525436"
+  },
+  {
+    "route_id": "r10831516",
+    "service_id": "Mo-Su",
+    "trip_id": "r10525435_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r10525435"
+  },
+  {
+    "route_id": "r10831517",
+    "service_id": "Mo-Su",
+    "trip_id": "r10524079_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "0",
+    "shape_id": "r10524079"
+  },
+  {
+    "route_id": "r10831517",
+    "service_id": "Mo-Su",
+    "trip_id": "r10524080_Mo-Su",
+    "trip_headsign": "Manjanakad",
+    "direction_id": "1",
+    "shape_id": "r10524080"
+  },
+  {
+    "route_id": "r10831518",
+    "service_id": "Mo-Su",
+    "trip_id": "r10523910_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r10523910"
+  },
+  {
+    "route_id": "r10831518",
+    "service_id": "Mo-Su",
+    "trip_id": "r10519399_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r10519399"
+  },
+  {
+    "route_id": "r12759113",
+    "service_id": "Mo-Su",
+    "trip_id": "r10592288_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "0",
+    "shape_id": "r10592288"
+  },
+  {
+    "route_id": "r12759113",
+    "service_id": "Mo-Su",
+    "trip_id": "r10592287_Mo-Su",
+    "trip_headsign": "High Court (Ernakulam)",
+    "direction_id": "1",
+    "shape_id": "r10592287"
+  },
+  {
+    "route_id": "r12759289",
+    "service_id": "Mo-Su",
+    "trip_id": "r12740709_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r12740709"
+  },
+  {
+    "route_id": "r12759289",
+    "service_id": "Mo-Su",
+    "trip_id": "r12759262_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "1",
+    "shape_id": "r12759262"
+  },
+  {
+    "route_id": "r13374892",
+    "service_id": "Mo-Su",
+    "trip_id": "r12376735_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r12376735"
+  },
+  {
+    "route_id": "r13374892",
+    "service_id": "Mo-Su",
+    "trip_id": "r12376660_Mo-Su",
+    "trip_headsign": "Kottuvally South",
+    "direction_id": "1",
+    "shape_id": "r12376660"
+  },
+  {
+    "route_id": "r13374893",
+    "service_id": "Mo-Su",
+    "trip_id": "r10528761_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r10528761"
+  },
+  {
+    "route_id": "r13374893",
+    "service_id": "Mo-Su",
+    "trip_id": "r10528762_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "1",
+    "shape_id": "r10528762"
+  },
+  {
+    "route_id": "r13478965",
+    "service_id": "Mo-Su",
+    "trip_id": "r13479120_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13479120"
+  },
+  {
+    "route_id": "r13478965",
+    "service_id": "Mo-Su",
+    "trip_id": "r13478964_Mo-Su",
+    "trip_headsign": "Ezhikkara",
+    "direction_id": "1",
+    "shape_id": "r13478964"
+  },
+  {
+    "route_id": "r13489073",
+    "service_id": "Mo-Su",
+    "trip_id": "r13489398_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "0",
+    "shape_id": "r13489398"
+  },
+  {
+    "route_id": "r13489073",
+    "service_id": "Mo-Su",
+    "trip_id": "r13489072_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13489072"
+  },
+  {
+    "route_id": "r13497147",
+    "service_id": "Mo-Su",
+    "trip_id": "r13497146_Mo-Su",
+    "trip_headsign": "Panambukad (Vallarpadam)",
+    "direction_id": "0",
+    "shape_id": "r13497146"
+  },
+  {
+    "route_id": "r13497147",
+    "service_id": "Mo-Su",
+    "trip_id": "r13497384_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13497384"
+  },
+  {
+    "route_id": "r13500567",
+    "service_id": "Mo-Su",
+    "trip_id": "r13500566_Mo-Su",
+    "trip_headsign": "Vyttila Mobility Hub",
+    "direction_id": "0",
+    "shape_id": "r13500566"
+  },
+  {
+    "route_id": "r13500673",
+    "service_id": "Mo-Su",
+    "trip_id": "r13500672_Mo-Su",
+    "trip_headsign": "Vyttila Mobility Hub",
+    "direction_id": "0",
+    "shape_id": "r13500672"
+  },
+  {
+    "route_id": "r13500936",
+    "service_id": "Mo-Su",
+    "trip_id": "r13500934_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "0",
+    "shape_id": "r13500934"
+  },
+  {
+    "route_id": "r13500936",
+    "service_id": "Mo-Su",
+    "trip_id": "r13500935_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13500935"
+  },
+  {
+    "route_id": "r13510567",
+    "service_id": "Mo-Su",
+    "trip_id": "r13510566_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13510566"
+  },
+  {
+    "route_id": "r13510567",
+    "service_id": "Mo-Su",
+    "trip_id": "r13531007_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13531007"
+  },
+  {
+    "route_id": "r13526775",
+    "service_id": "Mo-Su",
+    "trip_id": "r13526774_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13526774"
+  },
+  {
+    "route_id": "r13526775",
+    "service_id": "Mo-Su",
+    "trip_id": "r13526773_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13526773"
+  },
+  {
+    "route_id": "r13531471",
+    "service_id": "Mo-Su",
+    "trip_id": "r13531470_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "0",
+    "shape_id": "r13531470"
+  },
+  {
+    "route_id": "r13531471",
+    "service_id": "Mo-Su",
+    "trip_id": "r13531469_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13531469"
+  },
+  {
+    "route_id": "r13531919",
+    "service_id": "Mo-Su",
+    "trip_id": "r13531918_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "0",
+    "shape_id": "r13531918"
+  },
+  {
+    "route_id": "r13531919",
+    "service_id": "Mo-Su",
+    "trip_id": "r13531917_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "1",
+    "shape_id": "r13531917"
+  },
+  {
+    "route_id": "r13531974",
+    "service_id": "Mo-Su",
+    "trip_id": "r13531973_Mo-Su",
+    "trip_headsign": "Kalady",
+    "direction_id": "0",
+    "shape_id": "r13531973"
+  },
+  {
+    "route_id": "r13531974",
+    "service_id": "Mo-Su",
+    "trip_id": "r13531972_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "1",
+    "shape_id": "r13531972"
+  },
+  {
+    "route_id": "r13534968",
+    "service_id": "Mo-Su",
+    "trip_id": "r13534966_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13534966"
+  },
+  {
+    "route_id": "r13534968",
+    "service_id": "Mo-Su",
+    "trip_id": "r13538006_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13538006"
+  },
+  {
+    "route_id": "r13535512",
+    "service_id": "Mo-Su",
+    "trip_id": "r13535511_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13535511"
+  },
+  {
+    "route_id": "r13535512",
+    "service_id": "Mo-Su",
+    "trip_id": "r13535510_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13535510"
+  },
+  {
+    "route_id": "r13539090",
+    "service_id": "Mo-Su",
+    "trip_id": "r13539089_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13539089"
+  },
+  {
+    "route_id": "r13539090",
+    "service_id": "Mo-Su",
+    "trip_id": "r13539088_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13539088"
+  },
+  {
+    "route_id": "r13544303",
+    "service_id": "Mo-Su",
+    "trip_id": "r13544302_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "0",
+    "shape_id": "r13544302"
+  },
+  {
+    "route_id": "r13544303",
+    "service_id": "Mo-Su",
+    "trip_id": "r13544301_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13544301"
+  },
+  {
+    "route_id": "r13544888",
+    "service_id": "Mo-Su",
+    "trip_id": "r13544887_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13544887"
+  },
+  {
+    "route_id": "r13544888",
+    "service_id": "Mo-Su",
+    "trip_id": "r13544886_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13544886"
+  },
+  {
+    "route_id": "r13545124",
+    "service_id": "Mo-Su",
+    "trip_id": "r13545123_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13545123"
+  },
+  {
+    "route_id": "r13545124",
+    "service_id": "Mo-Su",
+    "trip_id": "r13545122_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13545122"
+  },
+  {
+    "route_id": "r13546166",
+    "service_id": "Mo-Su",
+    "trip_id": "r13546165_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "0",
+    "shape_id": "r13546165"
+  },
+  {
+    "route_id": "r13546166",
+    "service_id": "Mo-Su",
+    "trip_id": "r13546164_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "1",
+    "shape_id": "r13546164"
+  },
+  {
+    "route_id": "r13546546",
+    "service_id": "Mo-Su",
+    "trip_id": "r13546545_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13546545"
+  },
+  {
+    "route_id": "r13546546",
+    "service_id": "Mo-Su",
+    "trip_id": "r13546544_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13546544"
+  },
+  {
+    "route_id": "r13548914",
+    "service_id": "Mo-Su",
+    "trip_id": "r13548913_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13548913"
+  },
+  {
+    "route_id": "r13548914",
+    "service_id": "Mo-Su",
+    "trip_id": "r13548912_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13548912"
+  },
+  {
+    "route_id": "r13548914",
+    "service_id": "Mo-Su",
+    "trip_id": "r13549125_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13549125"
+  },
+  {
+    "route_id": "r13549451",
+    "service_id": "Mo-Su",
+    "trip_id": "r13549450_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13549450"
+  },
+  {
+    "route_id": "r13549451",
+    "service_id": "Mo-Su",
+    "trip_id": "r13549449_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13549449"
+  },
+  {
+    "route_id": "r13551368",
+    "service_id": "Mo-Su",
+    "trip_id": "r13551367_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13551367"
+  },
+  {
+    "route_id": "r13551368",
+    "service_id": "Mo-Su",
+    "trip_id": "r13551366_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "1",
+    "shape_id": "r13551366"
+  },
+  {
+    "route_id": "r13551491",
+    "service_id": "Mo-Su",
+    "trip_id": "r13551490_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13551490"
+  },
+  {
+    "route_id": "r13551491",
+    "service_id": "Mo-Su",
+    "trip_id": "r13551489_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13551489"
+  },
+  {
+    "route_id": "r13552378",
+    "service_id": "Mo-Su",
+    "trip_id": "r13552377_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13552377"
+  },
+  {
+    "route_id": "r13552378",
+    "service_id": "Mo-Su",
+    "trip_id": "r13552376_Mo-Su",
+    "trip_headsign": "Chittortemple",
+    "direction_id": "1",
+    "shape_id": "r13552376"
+  },
+  {
+    "route_id": "r13553060",
+    "service_id": "Mo-Su",
+    "trip_id": "r13553059_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13553059"
+  },
+  {
+    "route_id": "r13553060",
+    "service_id": "Mo-Su",
+    "trip_id": "r13553058_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13553058"
+  },
+  {
+    "route_id": "r13553068",
+    "service_id": "Mo-Su",
+    "trip_id": "r13553067_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13553067"
+  },
+  {
+    "route_id": "r13553068",
+    "service_id": "Mo-Su",
+    "trip_id": "r13553066_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13553066"
+  },
+  {
+    "route_id": "r13553738",
+    "service_id": "Mo-Su",
+    "trip_id": "r13553737_Mo-Su",
+    "trip_headsign": "Cochinshipyard",
+    "direction_id": "0",
+    "shape_id": "r13553737"
+  },
+  {
+    "route_id": "r13553738",
+    "service_id": "Mo-Su",
+    "trip_id": "r13553736_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13553736"
+  },
+  {
+    "route_id": "r13555115",
+    "service_id": "Mo-Su",
+    "trip_id": "r13555114_Mo-Su",
+    "trip_headsign": "Elavoor",
+    "direction_id": "0",
+    "shape_id": "r13555114"
+  },
+  {
+    "route_id": "r13555115",
+    "service_id": "Mo-Su",
+    "trip_id": "r13555113_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13555113"
+  },
+  {
+    "route_id": "r13556486",
+    "service_id": "Mo-Su",
+    "trip_id": "r13556485_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13556485"
+  },
+  {
+    "route_id": "r13556486",
+    "service_id": "Mo-Su",
+    "trip_id": "r13556484_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13556484"
+  },
+  {
+    "route_id": "r13557270",
+    "service_id": "Mo-Su",
+    "trip_id": "r13557269_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "0",
+    "shape_id": "r13557269"
+  },
+  {
+    "route_id": "r13557270",
+    "service_id": "Mo-Su",
+    "trip_id": "r13557268_Mo-Su",
+    "trip_headsign": "Chittoor Temple",
+    "direction_id": "1",
+    "shape_id": "r13557268"
+  },
+  {
+    "route_id": "r13561115",
+    "service_id": "Mo-Su",
+    "trip_id": "r13561114_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13561114"
+  },
+  {
+    "route_id": "r13561115",
+    "service_id": "Mo-Su",
+    "trip_id": "r13561113_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13561113"
+  },
+  {
+    "route_id": "r13561410",
+    "service_id": "Mo-Su",
+    "trip_id": "r13561409_Mo-Su",
+    "trip_headsign": "Varapuzha",
+    "direction_id": "0",
+    "shape_id": "r13561409"
+  },
+  {
+    "route_id": "r13561410",
+    "service_id": "Mo-Su",
+    "trip_id": "r13561408_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13561408"
+  },
+  {
+    "route_id": "r13561807",
+    "service_id": "Mo-Su",
+    "trip_id": "r13561806_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13561806"
+  },
+  {
+    "route_id": "r13561807",
+    "service_id": "Mo-Su",
+    "trip_id": "r13561805_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13561805"
+  },
+  {
+    "route_id": "r13562297",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562295_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13562295"
+  },
+  {
+    "route_id": "r13562297",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562296_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "1",
+    "shape_id": "r13562296"
+  },
+  {
+    "route_id": "r13562583",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562582_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13562582"
+  },
+  {
+    "route_id": "r13562583",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562581_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13562581"
+  },
+  {
+    "route_id": "r13562613",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562612_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13562612"
+  },
+  {
+    "route_id": "r13562613",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562611_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13562611"
+  },
+  {
+    "route_id": "r13562704",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562702_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13562702"
+  },
+  {
+    "route_id": "r13562704",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562703_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13562703"
+  },
+  {
+    "route_id": "r13562782",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562780_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13562780"
+  },
+  {
+    "route_id": "r13562782",
+    "service_id": "Mo-Su",
+    "trip_id": "r13562781_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13562781"
+  },
+  {
+    "route_id": "r13563616",
+    "service_id": "Mo-Su",
+    "trip_id": "r13563615_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13563615"
+  },
+  {
+    "route_id": "r13563616",
+    "service_id": "Mo-Su",
+    "trip_id": "r13563614_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13563614"
+  },
+  {
+    "route_id": "r13563806",
+    "service_id": "Mo-Su",
+    "trip_id": "r13563804_Mo-Su",
+    "trip_headsign": "Konthuruthy",
+    "direction_id": "0",
+    "shape_id": "r13563804"
+  },
+  {
+    "route_id": "r13563806",
+    "service_id": "Mo-Su",
+    "trip_id": "r13563805_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13563805"
+  },
+  {
+    "route_id": "r13568407",
+    "service_id": "Mo-Su",
+    "trip_id": "r13568406_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "0",
+    "shape_id": "r13568406"
+  },
+  {
+    "route_id": "r13568407",
+    "service_id": "Mo-Su",
+    "trip_id": "r13568405_Mo-Su",
+    "trip_headsign": "Chittoor Temple",
+    "direction_id": "1",
+    "shape_id": "r13568405"
+  },
+  {
+    "route_id": "r13570055",
+    "service_id": "Mo-Su",
+    "trip_id": "r13570053_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13570053"
+  },
+  {
+    "route_id": "r13570055",
+    "service_id": "Mo-Su",
+    "trip_id": "r13570054_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13570054"
+  },
+  {
+    "route_id": "r13570067",
+    "service_id": "Mo-Su",
+    "trip_id": "r13570066_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "0",
+    "shape_id": "r13570066"
+  },
+  {
+    "route_id": "r13570067",
+    "service_id": "Mo-Su",
+    "trip_id": "r13570065_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13570065"
+  },
+  {
+    "route_id": "r13570075",
+    "service_id": "Mo-Su",
+    "trip_id": "r13570073_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13570073"
+  },
+  {
+    "route_id": "r13570075",
+    "service_id": "Mo-Su",
+    "trip_id": "r13570074_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "1",
+    "shape_id": "r13570074"
+  },
+  {
+    "route_id": "r13570706",
+    "service_id": "Mo-Su",
+    "trip_id": "r13570705_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13570705"
+  },
+  {
+    "route_id": "r13570706",
+    "service_id": "Mo-Su",
+    "trip_id": "r13570704_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13570704"
+  },
+  {
+    "route_id": "r13571046",
+    "service_id": "Mo-Su",
+    "trip_id": "r13571045_Mo-Su",
+    "trip_headsign": "Panangad",
+    "direction_id": "0",
+    "shape_id": "r13571045"
+  },
+  {
+    "route_id": "r13571046",
+    "service_id": "Mo-Su",
+    "trip_id": "r13571044_Mo-Su",
+    "trip_headsign": "Chittortemple",
+    "direction_id": "1",
+    "shape_id": "r13571044"
+  },
+  {
+    "route_id": "r13571066",
+    "service_id": "Mo-Su",
+    "trip_id": "r13571064_Mo-Su",
+    "trip_headsign": "Panangad",
+    "direction_id": "0",
+    "shape_id": "r13571064"
+  },
+  {
+    "route_id": "r13571066",
+    "service_id": "Mo-Su",
+    "trip_id": "r13571065_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13571065"
+  },
+  {
+    "route_id": "r13571179",
+    "service_id": "Mo-Su",
+    "trip_id": "r13571177_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13571177"
+  },
+  {
+    "route_id": "r13571179",
+    "service_id": "Mo-Su",
+    "trip_id": "r13571178_Mo-Su",
+    "trip_headsign": "Puthukkalavattom",
+    "direction_id": "1",
+    "shape_id": "r13571178"
+  },
+  {
+    "route_id": "r13571525",
+    "service_id": "Mo-Su",
+    "trip_id": "r13571524_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "0",
+    "shape_id": "r13571524"
+  },
+  {
+    "route_id": "r13571525",
+    "service_id": "Mo-Su",
+    "trip_id": "r13571523_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13571523"
+  },
+  {
+    "route_id": "r13573162",
+    "service_id": "Mo-Su",
+    "trip_id": "r13573160_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "0",
+    "shape_id": "r13573160"
+  },
+  {
+    "route_id": "r13573162",
+    "service_id": "Mo-Su",
+    "trip_id": "r13573159_Mo-Su",
+    "trip_headsign": "Panangad",
+    "direction_id": "1",
+    "shape_id": "r13573159"
+  },
+  {
+    "route_id": "r13574912",
+    "service_id": "Mo-Su",
+    "trip_id": "r13574910_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13574910"
+  },
+  {
+    "route_id": "r13574912",
+    "service_id": "Mo-Su",
+    "trip_id": "r13574911_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "1",
+    "shape_id": "r13574911"
+  },
+  {
+    "route_id": "r13575127",
+    "service_id": "Mo-Su",
+    "trip_id": "r13575126_Mo-Su",
+    "trip_headsign": "Panangad",
+    "direction_id": "0",
+    "shape_id": "r13575126"
+  },
+  {
+    "route_id": "r13575127",
+    "service_id": "Mo-Su",
+    "trip_id": "r13575125_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13575125"
+  },
+  {
+    "route_id": "r13575547",
+    "service_id": "Mo-Su",
+    "trip_id": "r13575546_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13575546"
+  },
+  {
+    "route_id": "r13575547",
+    "service_id": "Mo-Su",
+    "trip_id": "r13575545_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13575545"
+  },
+  {
+    "route_id": "r13577501",
+    "service_id": "Mo-Su",
+    "trip_id": "r13577500_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13577500"
+  },
+  {
+    "route_id": "r13577501",
+    "service_id": "Mo-Su",
+    "trip_id": "r13577499_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13577499"
+  },
+  {
+    "route_id": "r13586170",
+    "service_id": "Mo-Su",
+    "trip_id": "r13718236_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13718236"
+  },
+  {
+    "route_id": "r13586170",
+    "service_id": "Mo-Su",
+    "trip_id": "r13586168_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13586168"
+  },
+  {
+    "route_id": "r13589067",
+    "service_id": "Mo-Su",
+    "trip_id": "r13589065_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13589065"
+  },
+  {
+    "route_id": "r13589067",
+    "service_id": "Mo-Su",
+    "trip_id": "r13589064_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13589064"
+  },
+  {
+    "route_id": "r13590426",
+    "service_id": "Mo-Su",
+    "trip_id": "r13590425_Mo-Su",
+    "trip_headsign": "Chottanikara",
+    "direction_id": "0",
+    "shape_id": "r13590425"
+  },
+  {
+    "route_id": "r13590426",
+    "service_id": "Mo-Su",
+    "trip_id": "r13590424_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13590424"
+  },
+  {
+    "route_id": "r13590488",
+    "service_id": "Mo-Su",
+    "trip_id": "r13590487_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "0",
+    "shape_id": "r13590487"
+  },
+  {
+    "route_id": "r13590488",
+    "service_id": "Mo-Su",
+    "trip_id": "r13590486_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13590486"
+  },
+  {
+    "route_id": "r13594889",
+    "service_id": "Mo-Su",
+    "trip_id": "r13594888_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13594888"
+  },
+  {
+    "route_id": "r13594889",
+    "service_id": "Mo-Su",
+    "trip_id": "r13594887_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13594887"
+  },
+  {
+    "route_id": "r13595088",
+    "service_id": "Mo-Su",
+    "trip_id": "r13595086_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13595086"
+  },
+  {
+    "route_id": "r13595088",
+    "service_id": "Mo-Su",
+    "trip_id": "r13595087_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13595087"
+  },
+  {
+    "route_id": "r13600778",
+    "service_id": "Mo-Su",
+    "trip_id": "r13600776_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "0",
+    "shape_id": "r13600776"
+  },
+  {
+    "route_id": "r13600778",
+    "service_id": "Mo-Su",
+    "trip_id": "r13600777_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "1",
+    "shape_id": "r13600777"
+  },
+  {
+    "route_id": "r13601640",
+    "service_id": "Mo-Su",
+    "trip_id": "r13601639_Mo-Su",
+    "trip_headsign": "Kalamassery",
+    "direction_id": "0",
+    "shape_id": "r13601639"
+  },
+  {
+    "route_id": "r13601640",
+    "service_id": "Mo-Su",
+    "trip_id": "r13601638_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13601638"
+  },
+  {
+    "route_id": "r13606652",
+    "service_id": "Mo-Su",
+    "trip_id": "r13606650_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "0",
+    "shape_id": "r13606650"
+  },
+  {
+    "route_id": "r13606652",
+    "service_id": "Mo-Su",
+    "trip_id": "r13606651_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "1",
+    "shape_id": "r13606651"
+  },
+  {
+    "route_id": "r13606821",
+    "service_id": "Mo-Su",
+    "trip_id": "r13606820_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "0",
+    "shape_id": "r13606820"
+  },
+  {
+    "route_id": "r13606821",
+    "service_id": "Mo-Su",
+    "trip_id": "r13606819_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "1",
+    "shape_id": "r13606819"
+  },
+  {
+    "route_id": "r13606906",
+    "service_id": "Mo-Su",
+    "trip_id": "r13606905_Mo-Su",
+    "trip_headsign": "Vyttila Mobility Hub",
+    "direction_id": "0",
+    "shape_id": "r13606905"
+  },
+  {
+    "route_id": "r13606906",
+    "service_id": "Mo-Su",
+    "trip_id": "r13606904_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "1",
+    "shape_id": "r13606904"
+  },
+  {
+    "route_id": "r13606972",
+    "service_id": "Mo-Su",
+    "trip_id": "r13606970_Mo-Su",
+    "trip_headsign": "Keezhmadu",
+    "direction_id": "0",
+    "shape_id": "r13606970"
+  },
+  {
+    "route_id": "r13606972",
+    "service_id": "Mo-Su",
+    "trip_id": "r13606971_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13606971"
+  },
+  {
+    "route_id": "r13609456",
+    "service_id": "Mo-Su",
+    "trip_id": "r13609455_Mo-Su",
+    "trip_headsign": "Njarakkal",
+    "direction_id": "0",
+    "shape_id": "r13609455"
+  },
+  {
+    "route_id": "r13609456",
+    "service_id": "Mo-Su",
+    "trip_id": "r13609454_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13609454"
+  },
+  {
+    "route_id": "r13610212",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610211_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13610211"
+  },
+  {
+    "route_id": "r13610212",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610210_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13610210"
+  },
+  {
+    "route_id": "r13610332",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610330_Mo-Su",
+    "trip_headsign": "Konthuruthy",
+    "direction_id": "0",
+    "shape_id": "r13610330"
+  },
+  {
+    "route_id": "r13610332",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610331_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13610331"
+  },
+  {
+    "route_id": "r13610565",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610564_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13610564"
+  },
+  {
+    "route_id": "r13610565",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610563_Mo-Su",
+    "trip_headsign": "Cheranelloor",
+    "direction_id": "1",
+    "shape_id": "r13610563"
+  },
+  {
+    "route_id": "r13610651",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610650_Mo-Su",
+    "trip_headsign": "Kadavanthra",
+    "direction_id": "0",
+    "shape_id": "r13610650"
+  },
+  {
+    "route_id": "r13610651",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610649_Mo-Su",
+    "trip_headsign": "Cheranelloor",
+    "direction_id": "1",
+    "shape_id": "r13610649"
+  },
+  {
+    "route_id": "r13610769",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610768_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "0",
+    "shape_id": "r13610768"
+  },
+  {
+    "route_id": "r13610769",
+    "service_id": "Mo-Su",
+    "trip_id": "r13610767_Mo-Su",
+    "trip_headsign": "Cheranelloor",
+    "direction_id": "1",
+    "shape_id": "r13610767"
+  },
+  {
+    "route_id": "r13611748",
+    "service_id": "Mo-Su",
+    "trip_id": "r3093531_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "0",
+    "shape_id": "r3093531"
+  },
+  {
+    "route_id": "r13611748",
+    "service_id": "Mo-Su",
+    "trip_id": "r13611747_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13611747"
+  },
+  {
+    "route_id": "r13612020",
+    "service_id": "Mo-Su",
+    "trip_id": "r13612019_Mo-Su",
+    "trip_headsign": "Kalady",
+    "direction_id": "0",
+    "shape_id": "r13612019"
+  },
+  {
+    "route_id": "r13612020",
+    "service_id": "Mo-Su",
+    "trip_id": "r13612018_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13612018"
+  },
+  {
+    "route_id": "r13612174",
+    "service_id": "Mo-Su",
+    "trip_id": "r13612173_Mo-Su",
+    "trip_headsign": "Ernakulam Jetty",
+    "direction_id": "0",
+    "shape_id": "r13612173"
+  },
+  {
+    "route_id": "r13612174",
+    "service_id": "Mo-Su",
+    "trip_id": "r13612172_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13612172"
+  },
+  {
+    "route_id": "r13616539",
+    "service_id": "Mo-Su",
+    "trip_id": "r13616538_Mo-Su",
+    "trip_headsign": "Vyttila Mobility Hub",
+    "direction_id": "0",
+    "shape_id": "r13616538"
+  },
+  {
+    "route_id": "r13616539",
+    "service_id": "Mo-Su",
+    "trip_id": "r13616537_Mo-Su",
+    "trip_headsign": "Kadamakkudy",
+    "direction_id": "1",
+    "shape_id": "r13616537"
+  },
+  {
+    "route_id": "r13616622",
+    "service_id": "Mo-Su",
+    "trip_id": "r13616621_Mo-Su",
+    "trip_headsign": "Mulavukad",
+    "direction_id": "0",
+    "shape_id": "r13616621"
+  },
+  {
+    "route_id": "r13616622",
+    "service_id": "Mo-Su",
+    "trip_id": "r13616620_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13616620"
+  },
+  {
+    "route_id": "r13617326",
+    "service_id": "Mo-Su",
+    "trip_id": "r13617325_Mo-Su",
+    "trip_headsign": "Chottanikara",
+    "direction_id": "0",
+    "shape_id": "r13617325"
+  },
+  {
+    "route_id": "r13617326",
+    "service_id": "Mo-Su",
+    "trip_id": "r13617324_Mo-Su",
+    "trip_headsign": "Chittoor Temple",
+    "direction_id": "1",
+    "shape_id": "r13617324"
+  },
+  {
+    "route_id": "r13617406",
+    "service_id": "Mo-Su",
+    "trip_id": "r13617404_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13617404"
+  },
+  {
+    "route_id": "r13617406",
+    "service_id": "Mo-Su",
+    "trip_id": "r13617405_Mo-Su",
+    "trip_headsign": "Amritha Hospital",
+    "direction_id": "1",
+    "shape_id": "r13617405"
+  },
+  {
+    "route_id": "r13619058",
+    "service_id": "Mo-Su",
+    "trip_id": "r13619057_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13619057"
+  },
+  {
+    "route_id": "r13619058",
+    "service_id": "Mo-Su",
+    "trip_id": "r13619056_Mo-Su",
+    "trip_headsign": "Chittoor Ferry",
+    "direction_id": "1",
+    "shape_id": "r13619056"
+  },
+  {
+    "route_id": "r13619115",
+    "service_id": "Mo-Su",
+    "trip_id": "r13619114_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13619114"
+  },
+  {
+    "route_id": "r13619115",
+    "service_id": "Mo-Su",
+    "trip_id": "r13619113_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13619113"
+  },
+  {
+    "route_id": "r13626159",
+    "service_id": "Mo-Su",
+    "trip_id": "r13626157_Mo-Su",
+    "trip_headsign": "Pukkad",
+    "direction_id": "0",
+    "shape_id": "r13626157"
+  },
+  {
+    "route_id": "r13626159",
+    "service_id": "Mo-Su",
+    "trip_id": "r13626158_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13626158"
+  },
+  {
+    "route_id": "r13626314",
+    "service_id": "Mo-Su",
+    "trip_id": "r13626312_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13626312"
+  },
+  {
+    "route_id": "r13626314",
+    "service_id": "Mo-Su",
+    "trip_id": "r13626313_Mo-Su",
+    "trip_headsign": "Chittoor Ferry",
+    "direction_id": "1",
+    "shape_id": "r13626313"
+  },
+  {
+    "route_id": "r13626336",
+    "service_id": "Mo-Su",
+    "trip_id": "r13626335_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13626335"
+  },
+  {
+    "route_id": "r13626336",
+    "service_id": "Mo-Su",
+    "trip_id": "r13626334_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13626334"
+  },
+  {
+    "route_id": "r13626947",
+    "service_id": "Mo-Su",
+    "trip_id": "r13626945_Mo-Su",
+    "trip_headsign": "Chittoor Ferry",
+    "direction_id": "0",
+    "shape_id": "r13626945"
+  },
+  {
+    "route_id": "r13626947",
+    "service_id": "Mo-Su",
+    "trip_id": "r13626946_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "1",
+    "shape_id": "r13626946"
+  },
+  {
+    "route_id": "r13627018",
+    "service_id": "Mo-Su",
+    "trip_id": "r13627016_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "0",
+    "shape_id": "r13627016"
+  },
+  {
+    "route_id": "r13627018",
+    "service_id": "Mo-Su",
+    "trip_id": "r13627017_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13627017"
+  },
+  {
+    "route_id": "r13627037",
+    "service_id": "Mo-Su",
+    "trip_id": "r13627035_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13627035"
+  },
+  {
+    "route_id": "r13627037",
+    "service_id": "Mo-Su",
+    "trip_id": "r13627036_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13627036"
+  },
+  {
+    "route_id": "r13627109",
+    "service_id": "Mo-Su",
+    "trip_id": "r13627107_Mo-Su",
+    "trip_headsign": "Chittoor Temple",
+    "direction_id": "0",
+    "shape_id": "r13627107"
+  },
+  {
+    "route_id": "r13627109",
+    "service_id": "Mo-Su",
+    "trip_id": "r13627108_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "1",
+    "shape_id": "r13627108"
+  },
+  {
+    "route_id": "r13627138",
+    "service_id": "Mo-Su",
+    "trip_id": "r13627137_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "0",
+    "shape_id": "r13627137"
+  },
+  {
+    "route_id": "r13627138",
+    "service_id": "Mo-Su",
+    "trip_id": "r13627136_Mo-Su",
+    "trip_headsign": "Cheranelloor",
+    "direction_id": "1",
+    "shape_id": "r13627136"
+  },
+  {
+    "route_id": "r13628936",
+    "service_id": "Mo-Su",
+    "trip_id": "r13628935_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13628935"
+  },
+  {
+    "route_id": "r13628936",
+    "service_id": "Mo-Su",
+    "trip_id": "r13628934_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13628934"
+  },
+  {
+    "route_id": "r13629035",
+    "service_id": "Mo-Su",
+    "trip_id": "r13629033_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13629033"
+  },
+  {
+    "route_id": "r13629035",
+    "service_id": "Mo-Su",
+    "trip_id": "r13629034_Mo-Su",
+    "trip_headsign": "Chittoor Ferry",
+    "direction_id": "1",
+    "shape_id": "r13629034"
+  },
+  {
+    "route_id": "r13629056",
+    "service_id": "Mo-Su",
+    "trip_id": "r13629054_Mo-Su",
+    "trip_headsign": "Palluruthy",
+    "direction_id": "0",
+    "shape_id": "r13629054"
+  },
+  {
+    "route_id": "r13629056",
+    "service_id": "Mo-Su",
+    "trip_id": "r13629055_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13629055"
+  },
+  {
+    "route_id": "r13629057",
+    "service_id": "Mo-Su",
+    "trip_id": "r10403637_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r10403637"
+  },
+  {
+    "route_id": "r13629057",
+    "service_id": "Mo-Su",
+    "trip_id": "r10523911_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r10523911"
+  },
+  {
+    "route_id": "r13629058",
+    "service_id": "Mo-Su",
+    "trip_id": "r13546063_Mo-Su",
+    "trip_headsign": "High Court (Ernakulam)",
+    "direction_id": "0",
+    "shape_id": "r13546063"
+  },
+  {
+    "route_id": "r13629058",
+    "service_id": "Mo-Su",
+    "trip_id": "r13546062_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "1",
+    "shape_id": "r13546062"
+  },
+  {
+    "route_id": "r13629393",
+    "service_id": "Mo-Su",
+    "trip_id": "r13629392_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13629392"
+  },
+  {
+    "route_id": "r13629393",
+    "service_id": "Mo-Su",
+    "trip_id": "r13629391_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13629391"
+  },
+  {
+    "route_id": "r13635071",
+    "service_id": "Mo-Su",
+    "trip_id": "r13635070_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13635070"
+  },
+  {
+    "route_id": "r13635071",
+    "service_id": "Mo-Su",
+    "trip_id": "r13635069_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13635069"
+  },
+  {
+    "route_id": "r13637600",
+    "service_id": "Mo-Su",
+    "trip_id": "r13637599_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13637599"
+  },
+  {
+    "route_id": "r13637600",
+    "service_id": "Mo-Su",
+    "trip_id": "r13637598_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13637598"
+  },
+  {
+    "route_id": "r13637925",
+    "service_id": "Mo-Su",
+    "trip_id": "r13637923_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13637923"
+  },
+  {
+    "route_id": "r13637925",
+    "service_id": "Mo-Su",
+    "trip_id": "r13637924_Mo-Su",
+    "trip_headsign": "Kadamakkudy",
+    "direction_id": "1",
+    "shape_id": "r13637924"
+  },
+  {
+    "route_id": "r13638090",
+    "service_id": "Mo-Su",
+    "trip_id": "r13638088_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13638088"
+  },
+  {
+    "route_id": "r13638090",
+    "service_id": "Mo-Su",
+    "trip_id": "r13638089_Mo-Su",
+    "trip_headsign": "Kottayil Kovilakam",
+    "direction_id": "1",
+    "shape_id": "r13638089"
+  },
+  {
+    "route_id": "r13638179",
+    "service_id": "Mo-Su",
+    "trip_id": "r13638177_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "0",
+    "shape_id": "r13638177"
+  },
+  {
+    "route_id": "r13638179",
+    "service_id": "Mo-Su",
+    "trip_id": "r13638178_Mo-Su",
+    "trip_headsign": "Appangad",
+    "direction_id": "1",
+    "shape_id": "r13638178"
+  },
+  {
+    "route_id": "r13641243",
+    "service_id": "Mo-Su",
+    "trip_id": "r13641242_Mo-Su",
+    "trip_headsign": "Mundamveli",
+    "direction_id": "0",
+    "shape_id": "r13641242"
+  },
+  {
+    "route_id": "r13641243",
+    "service_id": "Mo-Su",
+    "trip_id": "r13641241_Mo-Su",
+    "trip_headsign": "Cheranelloor",
+    "direction_id": "1",
+    "shape_id": "r13641241"
+  },
+  {
+    "route_id": "r13641520",
+    "service_id": "Mo-Su",
+    "trip_id": "r13641519_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13641519"
+  },
+  {
+    "route_id": "r13641520",
+    "service_id": "Mo-Su",
+    "trip_id": "r13641518_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13641518"
+  },
+  {
+    "route_id": "r13641805",
+    "service_id": "Mo-Su",
+    "trip_id": "r13641803_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "0",
+    "shape_id": "r13641803"
+  },
+  {
+    "route_id": "r13641805",
+    "service_id": "Mo-Su",
+    "trip_id": "r13641804_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "1",
+    "shape_id": "r13641804"
+  },
+  {
+    "route_id": "r13641967",
+    "service_id": "Mo-Su",
+    "trip_id": "r13641965_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13641965"
+  },
+  {
+    "route_id": "r13641967",
+    "service_id": "Mo-Su",
+    "trip_id": "r13641966_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "1",
+    "shape_id": "r13641966"
+  },
+  {
+    "route_id": "r13642113",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642112_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13642112"
+  },
+  {
+    "route_id": "r13642113",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642111_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13642111"
+  },
+  {
+    "route_id": "r13642226",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642225_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "0",
+    "shape_id": "r13642225"
+  },
+  {
+    "route_id": "r13642226",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642224_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "1",
+    "shape_id": "r13642224"
+  },
+  {
+    "route_id": "r13642293",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642291_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13642291"
+  },
+  {
+    "route_id": "r13642293",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642292_Mo-Su",
+    "trip_headsign": "Panangad",
+    "direction_id": "1",
+    "shape_id": "r13642292"
+  },
+  {
+    "route_id": "r13642446",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642445_Mo-Su",
+    "trip_headsign": "Karimugal",
+    "direction_id": "0",
+    "shape_id": "r13642445"
+  },
+  {
+    "route_id": "r13642446",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642444_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13642444"
+  },
+  {
+    "route_id": "r13642666",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642665_Mo-Su",
+    "trip_headsign": "Edayar",
+    "direction_id": "0",
+    "shape_id": "r13642665"
+  },
+  {
+    "route_id": "r13642666",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642664_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13642664"
+  },
+  {
+    "route_id": "r13642737",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642735_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13642735"
+  },
+  {
+    "route_id": "r13642737",
+    "service_id": "Mo-Su",
+    "trip_id": "r13642736_Mo-Su",
+    "trip_headsign": "Varapuzha",
+    "direction_id": "1",
+    "shape_id": "r13642736"
+  },
+  {
+    "route_id": "r13644289",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644288_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13644288"
+  },
+  {
+    "route_id": "r13644289",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644287_Mo-Su",
+    "trip_headsign": "Cheranelloor",
+    "direction_id": "1",
+    "shape_id": "r13644287"
+  },
+  {
+    "route_id": "r13644321",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644319_Mo-Su",
+    "trip_headsign": "Chittoor",
+    "direction_id": "0",
+    "shape_id": "r13644319"
+  },
+  {
+    "route_id": "r13644321",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644320_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "1",
+    "shape_id": "r13644320"
+  },
+  {
+    "route_id": "r13644432",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644431_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13644431"
+  },
+  {
+    "route_id": "r13644432",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644430_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "1",
+    "shape_id": "r13644430"
+  },
+  {
+    "route_id": "r13644659",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644658_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "0",
+    "shape_id": "r13644658"
+  },
+  {
+    "route_id": "r13644659",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644657_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13644657"
+  },
+  {
+    "route_id": "r13644836",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644835_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13644835"
+  },
+  {
+    "route_id": "r13644836",
+    "service_id": "Mo-Su",
+    "trip_id": "r13644834_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13644834"
+  },
+  {
+    "route_id": "r13645172",
+    "service_id": "Mo-Su",
+    "trip_id": "r13645170_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13645170"
+  },
+  {
+    "route_id": "r13645172",
+    "service_id": "Mo-Su",
+    "trip_id": "r13645171_Mo-Su",
+    "trip_headsign": "Infopark",
+    "direction_id": "1",
+    "shape_id": "r13645171"
+  },
+  {
+    "route_id": "r13645287",
+    "service_id": "Mo-Su",
+    "trip_id": "r13645286_Mo-Su",
+    "trip_headsign": "Puthencruz",
+    "direction_id": "0",
+    "shape_id": "r13645286"
+  },
+  {
+    "route_id": "r13645287",
+    "service_id": "Mo-Su",
+    "trip_id": "r13645285_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13645285"
+  },
+  {
+    "route_id": "r13645363",
+    "service_id": "Mo-Su",
+    "trip_id": "r13645362_Mo-Su",
+    "trip_headsign": "Puthencruz",
+    "direction_id": "0",
+    "shape_id": "r13645362"
+  },
+  {
+    "route_id": "r13645363",
+    "service_id": "Mo-Su",
+    "trip_id": "r13645361_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13645361"
+  },
+  {
+    "route_id": "r13645795",
+    "service_id": "Mo-Su",
+    "trip_id": "r13645794_Mo-Su",
+    "trip_headsign": "Kottuvally South",
+    "direction_id": "0",
+    "shape_id": "r13645794"
+  },
+  {
+    "route_id": "r13645795",
+    "service_id": "Mo-Su",
+    "trip_id": "r13645793_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13645793"
+  },
+  {
+    "route_id": "r13646546",
+    "service_id": "Mo-Su",
+    "trip_id": "r13646545_Mo-Su",
+    "trip_headsign": "Cochinshipyard",
+    "direction_id": "0",
+    "shape_id": "r13646545"
+  },
+  {
+    "route_id": "r13646546",
+    "service_id": "Mo-Su",
+    "trip_id": "r13646544_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13646544"
+  },
+  {
+    "route_id": "r13648803",
+    "service_id": "Mo-Su",
+    "trip_id": "r13648802_Mo-Su",
+    "trip_headsign": "Kochu Kadavanthara",
+    "direction_id": "0",
+    "shape_id": "r13648802"
+  },
+  {
+    "route_id": "r13648803",
+    "service_id": "Mo-Su",
+    "trip_id": "r13648801_Mo-Su",
+    "trip_headsign": "Chittoor",
+    "direction_id": "1",
+    "shape_id": "r13648801"
+  },
+  {
+    "route_id": "r13648844",
+    "service_id": "Mo-Su",
+    "trip_id": "r13648842_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13648842"
+  },
+  {
+    "route_id": "r13648844",
+    "service_id": "Mo-Su",
+    "trip_id": "r13648843_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "1",
+    "shape_id": "r13648843"
+  },
+  {
+    "route_id": "r13649197",
+    "service_id": "Mo-Su",
+    "trip_id": "r13649196_Mo-Su",
+    "trip_headsign": "Pukkattupady",
+    "direction_id": "0",
+    "shape_id": "r13649196"
+  },
+  {
+    "route_id": "r13649197",
+    "service_id": "Mo-Su",
+    "trip_id": "r13649195_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "1",
+    "shape_id": "r13649195"
+  },
+  {
+    "route_id": "r13649217",
+    "service_id": "Mo-Su",
+    "trip_id": "r13649216_Mo-Su",
+    "trip_headsign": "Pukkattupady",
+    "direction_id": "0",
+    "shape_id": "r13649216"
+  },
+  {
+    "route_id": "r13649217",
+    "service_id": "Mo-Su",
+    "trip_id": "r13649215_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13649215"
+  },
+  {
+    "route_id": "r13649242",
+    "service_id": "Mo-Su",
+    "trip_id": "r13649241_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13649241"
+  },
+  {
+    "route_id": "r13649242",
+    "service_id": "Mo-Su",
+    "trip_id": "r13649240_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13649240"
+  },
+  {
+    "route_id": "r13649914",
+    "service_id": "Mo-Su",
+    "trip_id": "r13649913_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13649913"
+  },
+  {
+    "route_id": "r13649914",
+    "service_id": "Mo-Su",
+    "trip_id": "r13649912_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13649912"
+  },
+  {
+    "route_id": "r13653991",
+    "service_id": "Mo-Su",
+    "trip_id": "r13653990_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13653990"
+  },
+  {
+    "route_id": "r13653991",
+    "service_id": "Mo-Su",
+    "trip_id": "r13653989_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "1",
+    "shape_id": "r13653989"
+  },
+  {
+    "route_id": "r13656366",
+    "service_id": "Mo-Su",
+    "trip_id": "r13656365_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13656365"
+  },
+  {
+    "route_id": "r13656366",
+    "service_id": "Mo-Su",
+    "trip_id": "r13656364_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13656364"
+  },
+  {
+    "route_id": "r13656569",
+    "service_id": "Mo-Su",
+    "trip_id": "r13656568_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13656568"
+  },
+  {
+    "route_id": "r13656569",
+    "service_id": "Mo-Su",
+    "trip_id": "r13656567_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13656567"
+  },
+  {
+    "route_id": "r13656692",
+    "service_id": "Mo-Su",
+    "trip_id": "r13656691_Mo-Su",
+    "trip_headsign": "Kadavanthra",
+    "direction_id": "0",
+    "shape_id": "r13656691"
+  },
+  {
+    "route_id": "r13656692",
+    "service_id": "Mo-Su",
+    "trip_id": "r13656690_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13656690"
+  },
+  {
+    "route_id": "r13656752",
+    "service_id": "Mo-Su",
+    "trip_id": "r13656751_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13656751"
+  },
+  {
+    "route_id": "r13656752",
+    "service_id": "Mo-Su",
+    "trip_id": "r13656750_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13656750"
+  },
+  {
+    "route_id": "r13657023",
+    "service_id": "Mo-Su",
+    "trip_id": "r13657022_Mo-Su",
+    "trip_headsign": "Kumbalam",
+    "direction_id": "0",
+    "shape_id": "r13657022"
+  },
+  {
+    "route_id": "r13657023",
+    "service_id": "Mo-Su",
+    "trip_id": "r13657021_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13657021"
+  },
+  {
+    "route_id": "r13657357",
+    "service_id": "Mo-Su",
+    "trip_id": "r13657356_Mo-Su",
+    "trip_headsign": "Manjali",
+    "direction_id": "0",
+    "shape_id": "r13657356"
+  },
+  {
+    "route_id": "r13657357",
+    "service_id": "Mo-Su",
+    "trip_id": "r13657355_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13657355"
+  },
+  {
+    "route_id": "r13663933",
+    "service_id": "Mo-Su",
+    "trip_id": "r13663932_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "0",
+    "shape_id": "r13663932"
+  },
+  {
+    "route_id": "r13663933",
+    "service_id": "Mo-Su",
+    "trip_id": "r13663931_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13663931"
+  },
+  {
+    "route_id": "r13667682",
+    "service_id": "Mo-Su",
+    "trip_id": "r13667681_Mo-Su",
+    "trip_headsign": "Kothad Ferry",
+    "direction_id": "0",
+    "shape_id": "r13667681"
+  },
+  {
+    "route_id": "r13667682",
+    "service_id": "Mo-Su",
+    "trip_id": "r13667680_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "1",
+    "shape_id": "r13667680"
+  },
+  {
+    "route_id": "r13668802",
+    "service_id": "Mo-Su",
+    "trip_id": "r13668800_Mo-Su",
+    "trip_headsign": "Chittoor Temple",
+    "direction_id": "0",
+    "shape_id": "r13668800"
+  },
+  {
+    "route_id": "r13668802",
+    "service_id": "Mo-Su",
+    "trip_id": "r13668801_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13668801"
+  },
+  {
+    "route_id": "r13669763",
+    "service_id": "Mo-Su",
+    "trip_id": "r13669761_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13669761"
+  },
+  {
+    "route_id": "r13669763",
+    "service_id": "Mo-Su",
+    "trip_id": "r13669762_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "1",
+    "shape_id": "r13669762"
+  },
+  {
+    "route_id": "r13669818",
+    "service_id": "Mo-Su",
+    "trip_id": "r13669816_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13669816"
+  },
+  {
+    "route_id": "r13669818",
+    "service_id": "Mo-Su",
+    "trip_id": "r13669817_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13669817"
+  },
+  {
+    "route_id": "r13669870",
+    "service_id": "Mo-Su",
+    "trip_id": "r13669868_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13669868"
+  },
+  {
+    "route_id": "r13669870",
+    "service_id": "Mo-Su",
+    "trip_id": "r13669869_Mo-Su",
+    "trip_headsign": "Chittoor Ferry",
+    "direction_id": "1",
+    "shape_id": "r13669869"
+  },
+  {
+    "route_id": "r13670060",
+    "service_id": "Mo-Su",
+    "trip_id": "r13670059_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13670059"
+  },
+  {
+    "route_id": "r13670060",
+    "service_id": "Mo-Su",
+    "trip_id": "r13670058_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "1",
+    "shape_id": "r13670058"
+  },
+  {
+    "route_id": "r13671522",
+    "service_id": "Mo-Su",
+    "trip_id": "r13671521_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13671521"
+  },
+  {
+    "route_id": "r13671522",
+    "service_id": "Mo-Su",
+    "trip_id": "r13671520_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "1",
+    "shape_id": "r13671520"
+  },
+  {
+    "route_id": "r13671533",
+    "service_id": "Mo-Su",
+    "trip_id": "r13671531_Mo-Su",
+    "trip_headsign": "Eloor Dippo",
+    "direction_id": "0",
+    "shape_id": "r13671531"
+  },
+  {
+    "route_id": "r13671533",
+    "service_id": "Mo-Su",
+    "trip_id": "r13671532_Mo-Su",
+    "trip_headsign": "Thevara ferry",
+    "direction_id": "1",
+    "shape_id": "r13671532"
+  },
+  {
+    "route_id": "r13671558",
+    "service_id": "Mo-Su",
+    "trip_id": "r13671556_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "0",
+    "shape_id": "r13671556"
+  },
+  {
+    "route_id": "r13671558",
+    "service_id": "Mo-Su",
+    "trip_id": "r13671557_Mo-Su",
+    "trip_headsign": "Chittoor",
+    "direction_id": "1",
+    "shape_id": "r13671557"
+  },
+  {
+    "route_id": "r13671857",
+    "service_id": "Mo-Su",
+    "trip_id": "r13671856_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13671856"
+  },
+  {
+    "route_id": "r13671857",
+    "service_id": "Mo-Su",
+    "trip_id": "r13671855_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13671855"
+  },
+  {
+    "route_id": "r13672029",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672028_Mo-Su",
+    "trip_headsign": "Varapuzha",
+    "direction_id": "0",
+    "shape_id": "r13672028"
+  },
+  {
+    "route_id": "r13672029",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672027_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13672027"
+  },
+  {
+    "route_id": "r13672401",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672399_Mo-Su",
+    "trip_headsign": "Thuthiyoor",
+    "direction_id": "0",
+    "shape_id": "r13672399"
+  },
+  {
+    "route_id": "r13672401",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672400_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13672400"
+  },
+  {
+    "route_id": "r13672568",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672566_Mo-Su",
+    "trip_headsign": "Puthiakavu",
+    "direction_id": "0",
+    "shape_id": "r13672566"
+  },
+  {
+    "route_id": "r13672568",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672567_Mo-Su",
+    "trip_headsign": "Cheranelloor",
+    "direction_id": "1",
+    "shape_id": "r13672567"
+  },
+  {
+    "route_id": "r13672587",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672586_Mo-Su",
+    "trip_headsign": "Thuthiyoor",
+    "direction_id": "0",
+    "shape_id": "r13672586"
+  },
+  {
+    "route_id": "r13672587",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672585_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "1",
+    "shape_id": "r13672585"
+  },
+  {
+    "route_id": "r13672630",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672629_Mo-Su",
+    "trip_headsign": "Pathalam",
+    "direction_id": "0",
+    "shape_id": "r13672629"
+  },
+  {
+    "route_id": "r13672630",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672628_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13672628"
+  },
+  {
+    "route_id": "r13672764",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672763_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13672763"
+  },
+  {
+    "route_id": "r13672764",
+    "service_id": "Mo-Su",
+    "trip_id": "r13672762_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13672762"
+  },
+  {
+    "route_id": "r13673125",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673124_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13673124"
+  },
+  {
+    "route_id": "r13673125",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673123_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "1",
+    "shape_id": "r13673123"
+  },
+  {
+    "route_id": "r13673203",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673202_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13673202"
+  },
+  {
+    "route_id": "r13673203",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673201_Mo-Su",
+    "trip_headsign": "Gonduparambu",
+    "direction_id": "1",
+    "shape_id": "r13673201"
+  },
+  {
+    "route_id": "r13673315",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673314_Mo-Su",
+    "trip_headsign": "Thathapilly",
+    "direction_id": "0",
+    "shape_id": "r13673314"
+  },
+  {
+    "route_id": "r13673315",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673313_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "1",
+    "shape_id": "r13673313"
+  },
+  {
+    "route_id": "r13673318",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673317_Mo-Su",
+    "trip_headsign": "Methanam (Eloor North)",
+    "direction_id": "0",
+    "shape_id": "r13673317"
+  },
+  {
+    "route_id": "r13673318",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673316_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13673316"
+  },
+  {
+    "route_id": "r13673330",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673329_Mo-Su",
+    "trip_headsign": "Thathappilly",
+    "direction_id": "0",
+    "shape_id": "r13673329"
+  },
+  {
+    "route_id": "r13673330",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673328_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13673328"
+  },
+  {
+    "route_id": "r13673356",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673355_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13673355"
+  },
+  {
+    "route_id": "r13673356",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673354_Mo-Su",
+    "trip_headsign": "Edappally",
+    "direction_id": "1",
+    "shape_id": "r13673354"
+  },
+  {
+    "route_id": "r13673475",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673473_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13673473"
+  },
+  {
+    "route_id": "r13673475",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673474_Mo-Su",
+    "trip_headsign": "Pallithode",
+    "direction_id": "1",
+    "shape_id": "r13673474"
+  },
+  {
+    "route_id": "r13673497",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673496_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13673496"
+  },
+  {
+    "route_id": "r13673497",
+    "service_id": "Mo-Su",
+    "trip_id": "r13673495_Mo-Su",
+    "trip_headsign": "High court",
+    "direction_id": "1",
+    "shape_id": "r13673495"
+  },
+  {
+    "route_id": "r13674025",
+    "service_id": "Mo-Su",
+    "trip_id": "r13674023_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13674023"
+  },
+  {
+    "route_id": "r13674025",
+    "service_id": "Mo-Su",
+    "trip_id": "r13674024_Mo-Su",
+    "trip_headsign": "Chennur",
+    "direction_id": "1",
+    "shape_id": "r13674024"
+  },
+  {
+    "route_id": "r13674447",
+    "service_id": "Mo-Su",
+    "trip_id": "r13674446_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13674446"
+  },
+  {
+    "route_id": "r13674447",
+    "service_id": "Mo-Su",
+    "trip_id": "r13674445_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13674445"
+  },
+  {
+    "route_id": "r13675465",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675464_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "0",
+    "shape_id": "r13675464"
+  },
+  {
+    "route_id": "r13675601",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675600_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "0",
+    "shape_id": "r13675600"
+  },
+  {
+    "route_id": "r13675601",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675599_Mo-Su",
+    "trip_headsign": "Mannamthurth",
+    "direction_id": "1",
+    "shape_id": "r13675599"
+  },
+  {
+    "route_id": "r13675635",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675633_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13675633"
+  },
+  {
+    "route_id": "r13675635",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675634_Mo-Su",
+    "trip_headsign": "Medical college",
+    "direction_id": "1",
+    "shape_id": "r13675634"
+  },
+  {
+    "route_id": "r13675715",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675714_Mo-Su",
+    "trip_headsign": "Medical college",
+    "direction_id": "0",
+    "shape_id": "r13675714"
+  },
+  {
+    "route_id": "r13675715",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675713_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13675713"
+  },
+  {
+    "route_id": "r13675765",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675763_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13675763"
+  },
+  {
+    "route_id": "r13675765",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675764_Mo-Su",
+    "trip_headsign": "Edachira",
+    "direction_id": "1",
+    "shape_id": "r13675764"
+  },
+  {
+    "route_id": "r13675842",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675841_Mo-Su",
+    "trip_headsign": "KMP Nagar",
+    "direction_id": "0",
+    "shape_id": "r13675841"
+  },
+  {
+    "route_id": "r13675842",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675840_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13675840"
+  },
+  {
+    "route_id": "r13675967",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675966_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "0",
+    "shape_id": "r13675966"
+  },
+  {
+    "route_id": "r13675967",
+    "service_id": "Mo-Su",
+    "trip_id": "r13675965_Mo-Su",
+    "trip_headsign": "Chittoor Temple",
+    "direction_id": "1",
+    "shape_id": "r13675965"
+  },
+  {
+    "route_id": "r13676122",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676121_Mo-Su",
+    "trip_headsign": "Manjali",
+    "direction_id": "0",
+    "shape_id": "r13676121"
+  },
+  {
+    "route_id": "r13676122",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676120_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13676120"
+  },
+  {
+    "route_id": "r13676171",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676169_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13676169"
+  },
+  {
+    "route_id": "r13676171",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676170_Mo-Su",
+    "trip_headsign": "Infopark",
+    "direction_id": "1",
+    "shape_id": "r13676170"
+  },
+  {
+    "route_id": "r13676349",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676348_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13676348"
+  },
+  {
+    "route_id": "r13676349",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676347_Mo-Su",
+    "trip_headsign": "Elamakkara",
+    "direction_id": "1",
+    "shape_id": "r13676347"
+  },
+  {
+    "route_id": "r13676385",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676384_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13676384"
+  },
+  {
+    "route_id": "r13676385",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676383_Mo-Su",
+    "trip_headsign": "Cheranelloor",
+    "direction_id": "1",
+    "shape_id": "r13676383"
+  },
+  {
+    "route_id": "r13676418",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676417_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13676417"
+  },
+  {
+    "route_id": "r13676418",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676416_Mo-Su",
+    "trip_headsign": "Kothad Ferry",
+    "direction_id": "1",
+    "shape_id": "r13676416"
+  },
+  {
+    "route_id": "r13676422",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676421_Mo-Su",
+    "trip_headsign": "Kumbalam",
+    "direction_id": "0",
+    "shape_id": "r13676421"
+  },
+  {
+    "route_id": "r13676422",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676420_Mo-Su",
+    "trip_headsign": "Chittoor Ferry",
+    "direction_id": "1",
+    "shape_id": "r13676420"
+  },
+  {
+    "route_id": "r13676487",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676486_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13676486"
+  },
+  {
+    "route_id": "r13676487",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676485_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "1",
+    "shape_id": "r13676485"
+  },
+  {
+    "route_id": "r13676537",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676535_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13676535"
+  },
+  {
+    "route_id": "r13676537",
+    "service_id": "Mo-Su",
+    "trip_id": "r13676536_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13676536"
+  },
+  {
+    "route_id": "r13677217",
+    "service_id": "Mo-Su",
+    "trip_id": "r13677216_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "0",
+    "shape_id": "r13677216"
+  },
+  {
+    "route_id": "r13677217",
+    "service_id": "Mo-Su",
+    "trip_id": "r13677215_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "1",
+    "shape_id": "r13677215"
+  },
+  {
+    "route_id": "r13678268",
+    "service_id": "Mo-Su",
+    "trip_id": "r13678266_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13678266"
+  },
+  {
+    "route_id": "r13678268",
+    "service_id": "Mo-Su",
+    "trip_id": "r13678267_Mo-Su",
+    "trip_headsign": "Panangad",
+    "direction_id": "1",
+    "shape_id": "r13678267"
+  },
+  {
+    "route_id": "r13679145",
+    "service_id": "Mo-Su",
+    "trip_id": "r13679143_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "0",
+    "shape_id": "r13679143"
+  },
+  {
+    "route_id": "r13679145",
+    "service_id": "Mo-Su",
+    "trip_id": "r13679144_Mo-Su",
+    "trip_headsign": "Kottuvally South",
+    "direction_id": "1",
+    "shape_id": "r13679144"
+  },
+  {
+    "route_id": "r13679265",
+    "service_id": "Mo-Su",
+    "trip_id": "r13679264_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "0",
+    "shape_id": "r13679264"
+  },
+  {
+    "route_id": "r13679265",
+    "service_id": "Mo-Su",
+    "trip_id": "r13679263_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "1",
+    "shape_id": "r13679263"
+  },
+  {
+    "route_id": "r13679626",
+    "service_id": "Mo-Su",
+    "trip_id": "r13679625_Mo-Su",
+    "trip_headsign": "Kothad Ferry",
+    "direction_id": "0",
+    "shape_id": "r13679625"
+  },
+  {
+    "route_id": "r13679626",
+    "service_id": "Mo-Su",
+    "trip_id": "r13679624_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13679624"
+  },
+  {
+    "route_id": "r13689658",
+    "service_id": "Mo-Su",
+    "trip_id": "r13689657_Mo-Su",
+    "trip_headsign": "Vyttila Mobility Hub",
+    "direction_id": "0",
+    "shape_id": "r13689657"
+  },
+  {
+    "route_id": "r13689658",
+    "service_id": "Mo-Su",
+    "trip_id": "r13689656_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13689656"
+  },
+  {
+    "route_id": "r13691656",
+    "service_id": "Mo-Su",
+    "trip_id": "r13691655_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "0",
+    "shape_id": "r13691655"
+  },
+  {
+    "route_id": "r13691656",
+    "service_id": "Mo-Su",
+    "trip_id": "r13691654_Mo-Su",
+    "trip_headsign": "Cherai",
+    "direction_id": "1",
+    "shape_id": "r13691654"
+  },
+  {
+    "route_id": "r13718237",
+    "service_id": "Mo-Su",
+    "trip_id": "r13586169_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13586169"
+  },
+  {
+    "route_id": "r13718237",
+    "service_id": "Mo-Su",
+    "trip_id": "r13718235_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13718235"
+  },
+  {
+    "route_id": "r13718887",
+    "service_id": "Mo-Su",
+    "trip_id": "r13718886_Mo-Su",
+    "trip_headsign": "Puthukkalavattom",
+    "direction_id": "0",
+    "shape_id": "r13718886"
+  },
+  {
+    "route_id": "r13718887",
+    "service_id": "Mo-Su",
+    "trip_id": "r13718885_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13718885"
+  },
+  {
+    "route_id": "r13718986",
+    "service_id": "Mo-Su",
+    "trip_id": "r13718985_Mo-Su",
+    "trip_headsign": "Puthukkalavattom",
+    "direction_id": "0",
+    "shape_id": "r13718985"
+  },
+  {
+    "route_id": "r13718986",
+    "service_id": "Mo-Su",
+    "trip_id": "r13718984_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "1",
+    "shape_id": "r13718984"
+  },
+  {
+    "route_id": "r13719331",
+    "service_id": "Mo-Su",
+    "trip_id": "r13719330_Mo-Su",
+    "trip_headsign": "Puthukkalavattom",
+    "direction_id": "0",
+    "shape_id": "r13719330"
+  },
+  {
+    "route_id": "r13719331",
+    "service_id": "Mo-Su",
+    "trip_id": "r13719329_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "1",
+    "shape_id": "r13719329"
+  },
+  {
+    "route_id": "r13724742",
+    "service_id": "Mo-Su",
+    "trip_id": "r13724741_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13724741"
+  },
+  {
+    "route_id": "r13724742",
+    "service_id": "Mo-Su",
+    "trip_id": "r13724740_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13724740"
+  },
+  {
+    "route_id": "r13725408",
+    "service_id": "Mo-Su",
+    "trip_id": "r13725407_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13725407"
+  },
+  {
+    "route_id": "r13725408",
+    "service_id": "Mo-Su",
+    "trip_id": "r13725406_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "1",
+    "shape_id": "r13725406"
+  },
+  {
+    "route_id": "r13725470",
+    "service_id": "Mo-Su",
+    "trip_id": "r13725469_Mo-Su",
+    "trip_headsign": "Methanam",
+    "direction_id": "0",
+    "shape_id": "r13725469"
+  },
+  {
+    "route_id": "r13725470",
+    "service_id": "Mo-Su",
+    "trip_id": "r13725468_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13725468"
+  },
+  {
+    "route_id": "r13725518",
+    "service_id": "Mo-Su",
+    "trip_id": "r13725517_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13725517"
+  },
+  {
+    "route_id": "r13725518",
+    "service_id": "Mo-Su",
+    "trip_id": "r13725516_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13725516"
+  },
+  {
+    "route_id": "r13749933",
+    "service_id": "Mo-Su",
+    "trip_id": "r13749932_Mo-Su",
+    "trip_headsign": "Njarakkal",
+    "direction_id": "0",
+    "shape_id": "r13749932"
+  },
+  {
+    "route_id": "r13749933",
+    "service_id": "Mo-Su",
+    "trip_id": "r13749931_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13749931"
+  },
+  {
+    "route_id": "r13749958",
+    "service_id": "Mo-Su",
+    "trip_id": "r13749957_Mo-Su",
+    "trip_headsign": "Njarakkal",
+    "direction_id": "0",
+    "shape_id": "r13749957"
+  },
+  {
+    "route_id": "r13749958",
+    "service_id": "Mo-Su",
+    "trip_id": "r13749956_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13749956"
+  },
+  {
+    "route_id": "r13749971",
+    "service_id": "Mo-Su",
+    "trip_id": "r13749970_Mo-Su",
+    "trip_headsign": "Njarakkal",
+    "direction_id": "0",
+    "shape_id": "r13749970"
+  },
+  {
+    "route_id": "r13749971",
+    "service_id": "Mo-Su",
+    "trip_id": "r13749969_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13749969"
+  },
+  {
+    "route_id": "r13750047",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750046_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13750046"
+  },
+  {
+    "route_id": "r13750047",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750045_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13750045"
+  },
+  {
+    "route_id": "r13750103",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750102_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13750102"
+  },
+  {
+    "route_id": "r13750103",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750101_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13750101"
+  },
+  {
+    "route_id": "r13750121",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750120_Mo-Su",
+    "trip_headsign": "Chittoorferry",
+    "direction_id": "0",
+    "shape_id": "r13750120"
+  },
+  {
+    "route_id": "r13750121",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750119_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13750119"
+  },
+  {
+    "route_id": "r13750132",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750131_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13750131"
+  },
+  {
+    "route_id": "r13750132",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750130_Mo-Su",
+    "trip_headsign": "Chittoor Temple",
+    "direction_id": "1",
+    "shape_id": "r13750130"
+  },
+  {
+    "route_id": "r13750190",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750189_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13750189"
+  },
+  {
+    "route_id": "r13750190",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750188_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13750188"
+  },
+  {
+    "route_id": "r13750199",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750198_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "0",
+    "shape_id": "r13750198"
+  },
+  {
+    "route_id": "r13750199",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750197_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13750197"
+  },
+  {
+    "route_id": "r13750240",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750239_Mo-Su",
+    "trip_headsign": "Gandhinagar",
+    "direction_id": "0",
+    "shape_id": "r13750239"
+  },
+  {
+    "route_id": "r13750240",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750238_Mo-Su",
+    "trip_headsign": "Eloor ferry",
+    "direction_id": "1",
+    "shape_id": "r13750238"
+  },
+  {
+    "route_id": "r13750380",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750379_Mo-Su",
+    "trip_headsign": "Vyttila Mobility Hub",
+    "direction_id": "0",
+    "shape_id": "r13750379"
+  },
+  {
+    "route_id": "r13750469",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750468_Mo-Su",
+    "trip_headsign": "Vyttila Mobility Hub",
+    "direction_id": "0",
+    "shape_id": "r13750468"
+  },
+  {
+    "route_id": "r13750488",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750487_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "0",
+    "shape_id": "r13750487"
+  },
+  {
+    "route_id": "r13750488",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750486_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13750486"
+  },
+  {
+    "route_id": "r13750598",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750597_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13750597"
+  },
+  {
+    "route_id": "r13750640",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750639_Mo-Su",
+    "trip_headsign": "Elamakkara",
+    "direction_id": "0",
+    "shape_id": "r13750639"
+  },
+  {
+    "route_id": "r13750640",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750638_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "1",
+    "shape_id": "r13750638"
+  },
+  {
+    "route_id": "r13750694",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750693_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13750693"
+  },
+  {
+    "route_id": "r13750694",
+    "service_id": "Mo-Su",
+    "trip_id": "r13750692_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13750692"
+  },
+  {
+    "route_id": "r13754397",
+    "service_id": "Mo-Su",
+    "trip_id": "r13754396_Mo-Su",
+    "trip_headsign": "Thuthiyoor",
+    "direction_id": "0",
+    "shape_id": "r13754396"
+  },
+  {
+    "route_id": "r13754397",
+    "service_id": "Mo-Su",
+    "trip_id": "r13754395_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "1",
+    "shape_id": "r13754395"
+  },
+  {
+    "route_id": "r13755059",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755057_Mo-Su",
+    "trip_headsign": "Thuthiyoor",
+    "direction_id": "0",
+    "shape_id": "r13755057"
+  },
+  {
+    "route_id": "r13755059",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755058_Mo-Su",
+    "trip_headsign": "Pambayimoola",
+    "direction_id": "1",
+    "shape_id": "r13755058"
+  },
+  {
+    "route_id": "r13755126",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755124_Mo-Su",
+    "trip_headsign": "Kundannoor",
+    "direction_id": "0",
+    "shape_id": "r13755124"
+  },
+  {
+    "route_id": "r13755126",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755125_Mo-Su",
+    "trip_headsign": "Kothad Church",
+    "direction_id": "1",
+    "shape_id": "r13755125"
+  },
+  {
+    "route_id": "r13755241",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755240_Mo-Su",
+    "trip_headsign": "Kundannoor",
+    "direction_id": "0",
+    "shape_id": "r13755240"
+  },
+  {
+    "route_id": "r13755265",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755264_Mo-Su",
+    "trip_headsign": "Palluruthy",
+    "direction_id": "0",
+    "shape_id": "r13755264"
+  },
+  {
+    "route_id": "r13755265",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755263_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13755263"
+  },
+  {
+    "route_id": "r13755297",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755295_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13755295"
+  },
+  {
+    "route_id": "r13755297",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755296_Mo-Su",
+    "trip_headsign": "Puthencruz",
+    "direction_id": "1",
+    "shape_id": "r13755296"
+  },
+  {
+    "route_id": "r13755381",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755380_Mo-Su",
+    "trip_headsign": "Kadavanthra",
+    "direction_id": "0",
+    "shape_id": "r13755380"
+  },
+  {
+    "route_id": "r13755423",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755421_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13755421"
+  },
+  {
+    "route_id": "r13755423",
+    "service_id": "Mo-Su",
+    "trip_id": "r13755422_Mo-Su",
+    "trip_headsign": "Kakkanad CEPZ",
+    "direction_id": "1",
+    "shape_id": "r13755422"
+  },
+  {
+    "route_id": "r13758565",
+    "service_id": "Mo-Su",
+    "trip_id": "r13758564_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "0",
+    "shape_id": "r13758564"
+  },
+  {
+    "route_id": "r13758565",
+    "service_id": "Mo-Su",
+    "trip_id": "r13758563_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13758563"
+  },
+  {
+    "route_id": "r13758647",
+    "service_id": "Mo-Su",
+    "trip_id": "r13758646_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "0",
+    "shape_id": "r13758646"
+  },
+  {
+    "route_id": "r13758647",
+    "service_id": "Mo-Su",
+    "trip_id": "r13758645_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13758645"
+  },
+  {
+    "route_id": "r13758901",
+    "service_id": "Mo-Su",
+    "trip_id": "r13758900_Mo-Su",
+    "trip_headsign": "Palarivattom",
+    "direction_id": "0",
+    "shape_id": "r13758900"
+  },
+  {
+    "route_id": "r13758901",
+    "service_id": "Mo-Su",
+    "trip_id": "r13758899_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13758899"
+  },
+  {
+    "route_id": "r13758931",
+    "service_id": "Mo-Su",
+    "trip_id": "r13758930_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13758930"
+  },
+  {
+    "route_id": "r13758931",
+    "service_id": "Mo-Su",
+    "trip_id": "r13758929_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13758929"
+  },
+  {
+    "route_id": "r13761899",
+    "service_id": "Mo-Su",
+    "trip_id": "r13761898_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "0",
+    "shape_id": "r13761898"
+  },
+  {
+    "route_id": "r13761899",
+    "service_id": "Mo-Su",
+    "trip_id": "r13761897_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13761897"
+  },
+  {
+    "route_id": "r13761930",
+    "service_id": "Mo-Su",
+    "trip_id": "r13761929_Mo-Su",
+    "trip_headsign": "Palarivattom",
+    "direction_id": "0",
+    "shape_id": "r13761929"
+  },
+  {
+    "route_id": "r13761930",
+    "service_id": "Mo-Su",
+    "trip_id": "r13761928_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13761928"
+  },
+  {
+    "route_id": "r13761960",
+    "service_id": "Mo-Su",
+    "trip_id": "r13761959_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13761959"
+  },
+  {
+    "route_id": "r13761960",
+    "service_id": "Mo-Su",
+    "trip_id": "r13761958_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "1",
+    "shape_id": "r13761958"
+  },
+  {
+    "route_id": "r13761992",
+    "service_id": "Mo-Su",
+    "trip_id": "r13761990_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13761990"
+  },
+  {
+    "route_id": "r13761992",
+    "service_id": "Mo-Su",
+    "trip_id": "r13761991_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13761991"
+  },
+  {
+    "route_id": "r13762115",
+    "service_id": "Mo-Su",
+    "trip_id": "r13762114_Mo-Su",
+    "trip_headsign": "Kalady",
+    "direction_id": "0",
+    "shape_id": "r13762114"
+  },
+  {
+    "route_id": "r13762115",
+    "service_id": "Mo-Su",
+    "trip_id": "r13762113_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13762113"
+  },
+  {
+    "route_id": "r13775320",
+    "service_id": "Mo-Su",
+    "trip_id": "r13775319_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13775319"
+  },
+  {
+    "route_id": "r13775320",
+    "service_id": "Mo-Su",
+    "trip_id": "r13775318_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "1",
+    "shape_id": "r13775318"
+  },
+  {
+    "route_id": "r13781303",
+    "service_id": "Mo-Su",
+    "trip_id": "r13781302_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "0",
+    "shape_id": "r13781302"
+  },
+  {
+    "route_id": "r13781303",
+    "service_id": "Mo-Su",
+    "trip_id": "r13781301_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13781301"
+  },
+  {
+    "route_id": "r13781430",
+    "service_id": "Mo-Su",
+    "trip_id": "r13781429_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13781429"
+  },
+  {
+    "route_id": "r13781463",
+    "service_id": "Mo-Su",
+    "trip_id": "r13781462_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "0",
+    "shape_id": "r13781462"
+  },
+  {
+    "route_id": "r13781491",
+    "service_id": "Mo-Su",
+    "trip_id": "r13781490_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13781490"
+  },
+  {
+    "route_id": "r13781491",
+    "service_id": "Mo-Su",
+    "trip_id": "r13781489_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13781489"
+  },
+  {
+    "route_id": "r13781528",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876966_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13876966"
+  },
+  {
+    "route_id": "r13781528",
+    "service_id": "Mo-Su",
+    "trip_id": "r13781527_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13781527"
+  },
+  {
+    "route_id": "r13791383",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791379_Mo-Su",
+    "trip_headsign": "Nedungad",
+    "direction_id": "0",
+    "shape_id": "r13791379"
+  },
+  {
+    "route_id": "r13791383",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791380_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13791380"
+  },
+  {
+    "route_id": "r13791384",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791381_Mo-Su",
+    "trip_headsign": "Manjanakad",
+    "direction_id": "0",
+    "shape_id": "r13791381"
+  },
+  {
+    "route_id": "r13791384",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791382_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13791382"
+  },
+  {
+    "route_id": "r13791533",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791531_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13791531"
+  },
+  {
+    "route_id": "r13791533",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791532_Mo-Su",
+    "trip_headsign": "Kadamakkudy",
+    "direction_id": "1",
+    "shape_id": "r13791532"
+  },
+  {
+    "route_id": "r13791621",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791620_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13791620"
+  },
+  {
+    "route_id": "r13791621",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791619_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13791619"
+  },
+  {
+    "route_id": "r13791696",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791695_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13791695"
+  },
+  {
+    "route_id": "r13791696",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791694_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13791694"
+  },
+  {
+    "route_id": "r13791758",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791757_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13791757"
+  },
+  {
+    "route_id": "r13791758",
+    "service_id": "Mo-Su",
+    "trip_id": "r13791756_Mo-Su",
+    "trip_headsign": "Cheranellore",
+    "direction_id": "1",
+    "shape_id": "r13791756"
+  },
+  {
+    "route_id": "r13792383",
+    "service_id": "Mo-Su",
+    "trip_id": "r13792382_Mo-Su",
+    "trip_headsign": "Eroor",
+    "direction_id": "0",
+    "shape_id": "r13792382"
+  },
+  {
+    "route_id": "r13792747",
+    "service_id": "Mo-Su",
+    "trip_id": "r13792745_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13792745"
+  },
+  {
+    "route_id": "r13792747",
+    "service_id": "Mo-Su",
+    "trip_id": "r13792746_Mo-Su",
+    "trip_headsign": "Medical college",
+    "direction_id": "1",
+    "shape_id": "r13792746"
+  },
+  {
+    "route_id": "r13792775",
+    "service_id": "Mo-Su",
+    "trip_id": "r13792774_Mo-Su",
+    "trip_headsign": "Kozhivettumveli",
+    "direction_id": "0",
+    "shape_id": "r13792774"
+  },
+  {
+    "route_id": "r13792894",
+    "service_id": "Mo-Su",
+    "trip_id": "r13792893_Mo-Su",
+    "trip_headsign": "Chathamma",
+    "direction_id": "0",
+    "shape_id": "r13792893"
+  },
+  {
+    "route_id": "r13792894",
+    "service_id": "Mo-Su",
+    "trip_id": "r13792892_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13792892"
+  },
+  {
+    "route_id": "r13792943",
+    "service_id": "Mo-Su",
+    "trip_id": "r13792942_Mo-Su",
+    "trip_headsign": "Manakkakadavu",
+    "direction_id": "0",
+    "shape_id": "r13792942"
+  },
+  {
+    "route_id": "r13792943",
+    "service_id": "Mo-Su",
+    "trip_id": "r13792941_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13792941"
+  },
+  {
+    "route_id": "r13793165",
+    "service_id": "Mo-Su",
+    "trip_id": "r13793164_Mo-Su",
+    "trip_headsign": "Illichuvadu Junction",
+    "direction_id": "0",
+    "shape_id": "r13793164"
+  },
+  {
+    "route_id": "r13793165",
+    "service_id": "Mo-Su",
+    "trip_id": "r13793163_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13793163"
+  },
+  {
+    "route_id": "r13796243",
+    "service_id": "Mo-Su",
+    "trip_id": "r13796241_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13796241"
+  },
+  {
+    "route_id": "r13796243",
+    "service_id": "Mo-Su",
+    "trip_id": "r13796242_Mo-Su",
+    "trip_headsign": "Vypin",
+    "direction_id": "1",
+    "shape_id": "r13796242"
+  },
+  {
+    "route_id": "r13810977",
+    "service_id": "Mo-Su",
+    "trip_id": "r13810975_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13810975"
+  },
+  {
+    "route_id": "r13810977",
+    "service_id": "Mo-Su",
+    "trip_id": "r13810976_Mo-Su",
+    "trip_headsign": "Pukkattupady",
+    "direction_id": "1",
+    "shape_id": "r13810976"
+  },
+  {
+    "route_id": "r13812889",
+    "service_id": "Mo-Su",
+    "trip_id": "r13812888_Mo-Su",
+    "trip_headsign": "Pizhala",
+    "direction_id": "0",
+    "shape_id": "r13812888"
+  },
+  {
+    "route_id": "r13812889",
+    "service_id": "Mo-Su",
+    "trip_id": "r13812887_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "1",
+    "shape_id": "r13812887"
+  },
+  {
+    "route_id": "r13813338",
+    "service_id": "Mo-Su",
+    "trip_id": "r13813336_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "0",
+    "shape_id": "r13813336"
+  },
+  {
+    "route_id": "r13813338",
+    "service_id": "Mo-Su",
+    "trip_id": "r13813337_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "1",
+    "shape_id": "r13813337"
+  },
+  {
+    "route_id": "r13818643",
+    "service_id": "Mo-Su",
+    "trip_id": "r13818642_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13818642"
+  },
+  {
+    "route_id": "r13818643",
+    "service_id": "Mo-Su",
+    "trip_id": "r13818641_Mo-Su",
+    "trip_headsign": "Piravom",
+    "direction_id": "1",
+    "shape_id": "r13818641"
+  },
+  {
+    "route_id": "r13825414",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825412_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "0",
+    "shape_id": "r13825412"
+  },
+  {
+    "route_id": "r13825414",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825413_Mo-Su",
+    "trip_headsign": "Appangad",
+    "direction_id": "1",
+    "shape_id": "r13825413"
+  },
+  {
+    "route_id": "r13825425",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825423_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13825423"
+  },
+  {
+    "route_id": "r13825425",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825424_Mo-Su",
+    "trip_headsign": "Gonduparambu",
+    "direction_id": "1",
+    "shape_id": "r13825424"
+  },
+  {
+    "route_id": "r13825502",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825501_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13825501"
+  },
+  {
+    "route_id": "r13825502",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825500_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "1",
+    "shape_id": "r13825500"
+  },
+  {
+    "route_id": "r13825517",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825515_Mo-Su",
+    "trip_headsign": "Kadamakudy",
+    "direction_id": "0",
+    "shape_id": "r13825515"
+  },
+  {
+    "route_id": "r13825517",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825516_Mo-Su",
+    "trip_headsign": "Chettibhagam",
+    "direction_id": "1",
+    "shape_id": "r13825516"
+  },
+  {
+    "route_id": "r13825522",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825520_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13825520"
+  },
+  {
+    "route_id": "r13825522",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825521_Mo-Su",
+    "trip_headsign": "Chettibhagam",
+    "direction_id": "1",
+    "shape_id": "r13825521"
+  },
+  {
+    "route_id": "r13825532",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825531_Mo-Su",
+    "trip_headsign": "Pizhalakkadavu",
+    "direction_id": "0",
+    "shape_id": "r13825531"
+  },
+  {
+    "route_id": "r13825532",
+    "service_id": "Mo-Su",
+    "trip_id": "r13825530_Mo-Su",
+    "trip_headsign": "Chettibhagam",
+    "direction_id": "1",
+    "shape_id": "r13825530"
+  },
+  {
+    "route_id": "r13834627",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834625_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13834625"
+  },
+  {
+    "route_id": "r13834627",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834626_Mo-Su",
+    "trip_headsign": "Edachira",
+    "direction_id": "1",
+    "shape_id": "r13834626"
+  },
+  {
+    "route_id": "r13834680",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834678_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13834678"
+  },
+  {
+    "route_id": "r13834680",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834679_Mo-Su",
+    "trip_headsign": "Kumbalangi",
+    "direction_id": "1",
+    "shape_id": "r13834679"
+  },
+  {
+    "route_id": "r13834697",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834695_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13834695"
+  },
+  {
+    "route_id": "r13834697",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834696_Mo-Su",
+    "trip_headsign": "Palarivattom",
+    "direction_id": "1",
+    "shape_id": "r13834696"
+  },
+  {
+    "route_id": "r13834709",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834707_Mo-Su",
+    "trip_headsign": "Pukkattupady",
+    "direction_id": "0",
+    "shape_id": "r13834707"
+  },
+  {
+    "route_id": "r13834709",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834708_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13834708"
+  },
+  {
+    "route_id": "r13834767",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834765_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13834765"
+  },
+  {
+    "route_id": "r13834767",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834766_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13834766"
+  },
+  {
+    "route_id": "r13834780",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834778_Mo-Su",
+    "trip_headsign": "Thevara Junction",
+    "direction_id": "0",
+    "shape_id": "r13834778"
+  },
+  {
+    "route_id": "r13834780",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834779_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13834779"
+  },
+  {
+    "route_id": "r13834820",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834818_Mo-Su",
+    "trip_headsign": "Pizhalakkadavu",
+    "direction_id": "0",
+    "shape_id": "r13834818"
+  },
+  {
+    "route_id": "r13834820",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834819_Mo-Su",
+    "trip_headsign": "Kadamakudy",
+    "direction_id": "1",
+    "shape_id": "r13834819"
+  },
+  {
+    "route_id": "r13834840",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834838_Mo-Su",
+    "trip_headsign": "Muppathadam",
+    "direction_id": "0",
+    "shape_id": "r13834838"
+  },
+  {
+    "route_id": "r13834840",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834839_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13834839"
+  },
+  {
+    "route_id": "r13834852",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834850_Mo-Su",
+    "trip_headsign": "Vattapparambu",
+    "direction_id": "0",
+    "shape_id": "r13834850"
+  },
+  {
+    "route_id": "r13834852",
+    "service_id": "Mo-Su",
+    "trip_id": "r13834851_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13834851"
+  },
+  {
+    "route_id": "r13835426",
+    "service_id": "Mo-Su",
+    "trip_id": "r13835425_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13835425"
+  },
+  {
+    "route_id": "r13835426",
+    "service_id": "Mo-Su",
+    "trip_id": "r13835424_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13835424"
+  },
+  {
+    "route_id": "r13835478",
+    "service_id": "Mo-Su",
+    "trip_id": "r13835476_Mo-Su",
+    "trip_headsign": "NAD",
+    "direction_id": "0",
+    "shape_id": "r13835476"
+  },
+  {
+    "route_id": "r13835478",
+    "service_id": "Mo-Su",
+    "trip_id": "r13835477_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13835477"
+  },
+  {
+    "route_id": "r13835644",
+    "service_id": "Mo-Su",
+    "trip_id": "r13835642_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13835642"
+  },
+  {
+    "route_id": "r13835644",
+    "service_id": "Mo-Su",
+    "trip_id": "r13835643_Mo-Su",
+    "trip_headsign": "Medical College",
+    "direction_id": "1",
+    "shape_id": "r13835643"
+  },
+  {
+    "route_id": "r13835657",
+    "service_id": "Mo-Su",
+    "trip_id": "r13835655_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "0",
+    "shape_id": "r13835655"
+  },
+  {
+    "route_id": "r13835657",
+    "service_id": "Mo-Su",
+    "trip_id": "r13835656_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13835656"
+  },
+  {
+    "route_id": "r13837312",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837311_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13837311"
+  },
+  {
+    "route_id": "r13837312",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837310_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13837310"
+  },
+  {
+    "route_id": "r13837374",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837372_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "0",
+    "shape_id": "r13837372"
+  },
+  {
+    "route_id": "r13837374",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837373_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "1",
+    "shape_id": "r13837373"
+  },
+  {
+    "route_id": "r13837511",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837509_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13837509"
+  },
+  {
+    "route_id": "r13837511",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837510_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13837510"
+  },
+  {
+    "route_id": "r13837569",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837567_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13837567"
+  },
+  {
+    "route_id": "r13837569",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837568_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13837568"
+  },
+  {
+    "route_id": "r13837630",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837628_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "0",
+    "shape_id": "r13837628"
+  },
+  {
+    "route_id": "r13837630",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837629_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13837629"
+  },
+  {
+    "route_id": "r13837791",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837789_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13837789"
+  },
+  {
+    "route_id": "r13837791",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837790_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "1",
+    "shape_id": "r13837790"
+  },
+  {
+    "route_id": "r13837821",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837819_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13837819"
+  },
+  {
+    "route_id": "r13837821",
+    "service_id": "Mo-Su",
+    "trip_id": "r13837820_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13837820"
+  },
+  {
+    "route_id": "r13838046",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838044_Mo-Su",
+    "trip_headsign": "Poothota",
+    "direction_id": "0",
+    "shape_id": "r13838044"
+  },
+  {
+    "route_id": "r13838046",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838045_Mo-Su",
+    "trip_headsign": "Irumpanam",
+    "direction_id": "1",
+    "shape_id": "r13838045"
+  },
+  {
+    "route_id": "r13838061",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838060_Mo-Su",
+    "trip_headsign": "Poothota",
+    "direction_id": "0",
+    "shape_id": "r13838060"
+  },
+  {
+    "route_id": "r13838061",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838059_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "1",
+    "shape_id": "r13838059"
+  },
+  {
+    "route_id": "r13838092",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838090_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13838090"
+  },
+  {
+    "route_id": "r13838092",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838091_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13838091"
+  },
+  {
+    "route_id": "r13838211",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838207_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13838207"
+  },
+  {
+    "route_id": "r13838211",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838208_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13838208"
+  },
+  {
+    "route_id": "r13838258",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838257_Mo-Su",
+    "trip_headsign": "Puthukkalavattom",
+    "direction_id": "0",
+    "shape_id": "r13838257"
+  },
+  {
+    "route_id": "r13838258",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838256_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "1",
+    "shape_id": "r13838256"
+  },
+  {
+    "route_id": "r13838449",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838416_Mo-Su",
+    "trip_headsign": "Eroor",
+    "direction_id": "0",
+    "shape_id": "r13838416"
+  },
+  {
+    "route_id": "r13838449",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838417_Mo-Su",
+    "trip_headsign": "Chittoor",
+    "direction_id": "1",
+    "shape_id": "r13838417"
+  },
+  {
+    "route_id": "r13838501",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838499_Mo-Su",
+    "trip_headsign": "Kothad Ferry",
+    "direction_id": "0",
+    "shape_id": "r13838499"
+  },
+  {
+    "route_id": "r13838501",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838500_Mo-Su",
+    "trip_headsign": "Eroor",
+    "direction_id": "1",
+    "shape_id": "r13838500"
+  },
+  {
+    "route_id": "r13838567",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838565_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "0",
+    "shape_id": "r13838565"
+  },
+  {
+    "route_id": "r13838567",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838566_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13838566"
+  },
+  {
+    "route_id": "r13838750",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838748_Mo-Su",
+    "trip_headsign": "Thevara Junction",
+    "direction_id": "0",
+    "shape_id": "r13838748"
+  },
+  {
+    "route_id": "r13838750",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838749_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13838749"
+  },
+  {
+    "route_id": "r13838881",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838879_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13838879"
+  },
+  {
+    "route_id": "r13838881",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838880_Mo-Su",
+    "trip_headsign": "Chathanad",
+    "direction_id": "1",
+    "shape_id": "r13838880"
+  },
+  {
+    "route_id": "r13838898",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838896_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13838896"
+  },
+  {
+    "route_id": "r13838898",
+    "service_id": "Mo-Su",
+    "trip_id": "r13838897_Mo-Su",
+    "trip_headsign": "Chathanad",
+    "direction_id": "1",
+    "shape_id": "r13838897"
+  },
+  {
+    "route_id": "r13839195",
+    "service_id": "Mo-Su",
+    "trip_id": "r13839193_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13839193"
+  },
+  {
+    "route_id": "r13839195",
+    "service_id": "Mo-Su",
+    "trip_id": "r13839194_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13839194"
+  },
+  {
+    "route_id": "r13839224",
+    "service_id": "Mo-Su",
+    "trip_id": "r13839222_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13839222"
+  },
+  {
+    "route_id": "r13839224",
+    "service_id": "Mo-Su",
+    "trip_id": "r13839223_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "1",
+    "shape_id": "r13839223"
+  },
+  {
+    "route_id": "r13839959",
+    "service_id": "Mo-Su",
+    "trip_id": "r13839958_Mo-Su",
+    "trip_headsign": "Nechoor",
+    "direction_id": "0",
+    "shape_id": "r13839958"
+  },
+  {
+    "route_id": "r13839959",
+    "service_id": "Mo-Su",
+    "trip_id": "r13839957_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13839957"
+  },
+  {
+    "route_id": "r13840066",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840064_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13840064"
+  },
+  {
+    "route_id": "r13840066",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840065_Mo-Su",
+    "trip_headsign": "Amaeda",
+    "direction_id": "1",
+    "shape_id": "r13840065"
+  },
+  {
+    "route_id": "r13840073",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840072_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13840072"
+  },
+  {
+    "route_id": "r13840073",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840071_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13840071"
+  },
+  {
+    "route_id": "r13840084",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840083_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "0",
+    "shape_id": "r13840083"
+  },
+  {
+    "route_id": "r13840084",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840082_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13840082"
+  },
+  {
+    "route_id": "r13840178",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840176_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13840176"
+  },
+  {
+    "route_id": "r13840178",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840177_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13840177"
+  },
+  {
+    "route_id": "r13840234",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840232_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13840232"
+  },
+  {
+    "route_id": "r13840234",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840233_Mo-Su",
+    "trip_headsign": "Kundannoor",
+    "direction_id": "1",
+    "shape_id": "r13840233"
+  },
+  {
+    "route_id": "r13840281",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840280_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "0",
+    "shape_id": "r13840280"
+  },
+  {
+    "route_id": "r13840281",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840279_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13840279"
+  },
+  {
+    "route_id": "r13840365",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840363_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13840363"
+  },
+  {
+    "route_id": "r13840365",
+    "service_id": "Mo-Su",
+    "trip_id": "r13840364_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13840364"
+  },
+  {
+    "route_id": "r13847529",
+    "service_id": "Mo-Su",
+    "trip_id": "r13847528_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13847528"
+  },
+  {
+    "route_id": "r13847529",
+    "service_id": "Mo-Su",
+    "trip_id": "r13847527_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "1",
+    "shape_id": "r13847527"
+  },
+  {
+    "route_id": "r13850236",
+    "service_id": "Mo-Su",
+    "trip_id": "r13850235_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "0",
+    "shape_id": "r13850235"
+  },
+  {
+    "route_id": "r13850236",
+    "service_id": "Mo-Su",
+    "trip_id": "r13850234_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "1",
+    "shape_id": "r13850234"
+  },
+  {
+    "route_id": "r13850732",
+    "service_id": "Mo-Su",
+    "trip_id": "r13850731_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13850731"
+  },
+  {
+    "route_id": "r13850732",
+    "service_id": "Mo-Su",
+    "trip_id": "r13850730_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13850730"
+  },
+  {
+    "route_id": "r13874627",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874626_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "0",
+    "shape_id": "r13874626"
+  },
+  {
+    "route_id": "r13874627",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874625_Mo-Su",
+    "trip_headsign": "Edachira",
+    "direction_id": "1",
+    "shape_id": "r13874625"
+  },
+  {
+    "route_id": "r13874633",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874631_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13874631"
+  },
+  {
+    "route_id": "r13874633",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874632_Mo-Su",
+    "trip_headsign": "Elamakkara",
+    "direction_id": "1",
+    "shape_id": "r13874632"
+  },
+  {
+    "route_id": "r13874700",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874697_Mo-Su",
+    "trip_headsign": "Thevara Junction",
+    "direction_id": "0",
+    "shape_id": "r13874697"
+  },
+  {
+    "route_id": "r13874700",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874696_Mo-Su",
+    "trip_headsign": "Edachira",
+    "direction_id": "1",
+    "shape_id": "r13874696"
+  },
+  {
+    "route_id": "r13874701",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874698_Mo-Su",
+    "trip_headsign": "Pambayimoola",
+    "direction_id": "0",
+    "shape_id": "r13874698"
+  },
+  {
+    "route_id": "r13874701",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874699_Mo-Su",
+    "trip_headsign": "Edachira",
+    "direction_id": "1",
+    "shape_id": "r13874699"
+  },
+  {
+    "route_id": "r13874787",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874785_Mo-Su",
+    "trip_headsign": "Thuthiyoor",
+    "direction_id": "0",
+    "shape_id": "r13874785"
+  },
+  {
+    "route_id": "r13874787",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874786_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13874786"
+  },
+  {
+    "route_id": "r13874795",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874793_Mo-Su",
+    "trip_headsign": "Thuthiyoor",
+    "direction_id": "0",
+    "shape_id": "r13874793"
+  },
+  {
+    "route_id": "r13874795",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874794_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "1",
+    "shape_id": "r13874794"
+  },
+  {
+    "route_id": "r13874803",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874801_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13874801"
+  },
+  {
+    "route_id": "r13874803",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874802_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13874802"
+  },
+  {
+    "route_id": "r13874892",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874891_Mo-Su",
+    "trip_headsign": "Mundamveli",
+    "direction_id": "0",
+    "shape_id": "r13874891"
+  },
+  {
+    "route_id": "r13874892",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874890_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13874890"
+  },
+  {
+    "route_id": "r13874910",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874909_Mo-Su",
+    "trip_headsign": "Thuthiyoor",
+    "direction_id": "0",
+    "shape_id": "r13874909"
+  },
+  {
+    "route_id": "r13874910",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874908_Mo-Su",
+    "trip_headsign": "Mundamveli",
+    "direction_id": "1",
+    "shape_id": "r13874908"
+  },
+  {
+    "route_id": "r13874972",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874970_Mo-Su",
+    "trip_headsign": "Kakkanad CEPZ",
+    "direction_id": "0",
+    "shape_id": "r13874970"
+  },
+  {
+    "route_id": "r13874972",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874971_Mo-Su",
+    "trip_headsign": "Fortkochi",
+    "direction_id": "1",
+    "shape_id": "r13874971"
+  },
+  {
+    "route_id": "r13874992",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874991_Mo-Su",
+    "trip_headsign": "Thevara Junction",
+    "direction_id": "0",
+    "shape_id": "r13874991"
+  },
+  {
+    "route_id": "r13874992",
+    "service_id": "Mo-Su",
+    "trip_id": "r13874990_Mo-Su",
+    "trip_headsign": "Kakkanad CEPZ",
+    "direction_id": "1",
+    "shape_id": "r13874990"
+  },
+  {
+    "route_id": "r13875009",
+    "service_id": "Mo-Su",
+    "trip_id": "r13875007_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "0",
+    "shape_id": "r13875007"
+  },
+  {
+    "route_id": "r13875009",
+    "service_id": "Mo-Su",
+    "trip_id": "r13875008_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13875008"
+  },
+  {
+    "route_id": "r13875069",
+    "service_id": "Mo-Su",
+    "trip_id": "r13875067_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13875067"
+  },
+  {
+    "route_id": "r13875069",
+    "service_id": "Mo-Su",
+    "trip_id": "r13875068_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13875068"
+  },
+  {
+    "route_id": "r13875116",
+    "service_id": "Mo-Su",
+    "trip_id": "r13875114_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13875114"
+  },
+  {
+    "route_id": "r13875116",
+    "service_id": "Mo-Su",
+    "trip_id": "r13875115_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13875115"
+  },
+  {
+    "route_id": "r13875148",
+    "service_id": "Mo-Su",
+    "trip_id": "r13875146_Mo-Su",
+    "trip_headsign": "Mundamveli",
+    "direction_id": "0",
+    "shape_id": "r13875146"
+  },
+  {
+    "route_id": "r13875148",
+    "service_id": "Mo-Su",
+    "trip_id": "r13875147_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13875147"
+  },
+  {
+    "route_id": "r13876531",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876530_Mo-Su",
+    "trip_headsign": "Nilampathijamukal",
+    "direction_id": "0",
+    "shape_id": "r13876530"
+  },
+  {
+    "route_id": "r13876531",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876529_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "1",
+    "shape_id": "r13876529"
+  },
+  {
+    "route_id": "r13876545",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876543_Mo-Su",
+    "trip_headsign": "Nilampathijamukal",
+    "direction_id": "0",
+    "shape_id": "r13876543"
+  },
+  {
+    "route_id": "r13876545",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876544_Mo-Su",
+    "trip_headsign": "Konthuruthy",
+    "direction_id": "1",
+    "shape_id": "r13876544"
+  },
+  {
+    "route_id": "r13876572",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876571_Mo-Su",
+    "trip_headsign": "Thevakkal",
+    "direction_id": "0",
+    "shape_id": "r13876571"
+  },
+  {
+    "route_id": "r13876572",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876570_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13876570"
+  },
+  {
+    "route_id": "r13876608",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876606_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "0",
+    "shape_id": "r13876606"
+  },
+  {
+    "route_id": "r13876608",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876607_Mo-Su",
+    "trip_headsign": "Konthuruthy",
+    "direction_id": "1",
+    "shape_id": "r13876607"
+  },
+  {
+    "route_id": "r13876614",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876613_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13876613"
+  },
+  {
+    "route_id": "r13876614",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876612_Mo-Su",
+    "trip_headsign": "Kakkanad CEPZ",
+    "direction_id": "1",
+    "shape_id": "r13876612"
+  },
+  {
+    "route_id": "r13876620",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876619_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13876619"
+  },
+  {
+    "route_id": "r13876620",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876618_Mo-Su",
+    "trip_headsign": "Edachira",
+    "direction_id": "1",
+    "shape_id": "r13876618"
+  },
+  {
+    "route_id": "r13876626",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876624_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "0",
+    "shape_id": "r13876624"
+  },
+  {
+    "route_id": "r13876626",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876625_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13876625"
+  },
+  {
+    "route_id": "r13876636",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876634_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13876634"
+  },
+  {
+    "route_id": "r13876636",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876635_Mo-Su",
+    "trip_headsign": "Thevakkal",
+    "direction_id": "1",
+    "shape_id": "r13876635"
+  },
+  {
+    "route_id": "r13876652",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876650_Mo-Su",
+    "trip_headsign": "Thevakkal",
+    "direction_id": "0",
+    "shape_id": "r13876650"
+  },
+  {
+    "route_id": "r13876652",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876651_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "1",
+    "shape_id": "r13876651"
+  },
+  {
+    "route_id": "r13876655",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876653_Mo-Su",
+    "trip_headsign": "Nilampathijamukal",
+    "direction_id": "0",
+    "shape_id": "r13876653"
+  },
+  {
+    "route_id": "r13876655",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876654_Mo-Su",
+    "trip_headsign": "Mundamveli",
+    "direction_id": "1",
+    "shape_id": "r13876654"
+  },
+  {
+    "route_id": "r13876681",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876679_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13876679"
+  },
+  {
+    "route_id": "r13876681",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876680_Mo-Su",
+    "trip_headsign": "Kavumthazham",
+    "direction_id": "1",
+    "shape_id": "r13876680"
+  },
+  {
+    "route_id": "r13876761",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876760_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13876760"
+  },
+  {
+    "route_id": "r13876761",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876759_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13876759"
+  },
+  {
+    "route_id": "r13876773",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876772_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13876772"
+  },
+  {
+    "route_id": "r13876773",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876771_Mo-Su",
+    "trip_headsign": "Chittethukara",
+    "direction_id": "1",
+    "shape_id": "r13876771"
+  },
+  {
+    "route_id": "r13876836",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876835_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13876835"
+  },
+  {
+    "route_id": "r13876836",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876834_Mo-Su",
+    "trip_headsign": "Nilampathijamukal",
+    "direction_id": "1",
+    "shape_id": "r13876834"
+  },
+  {
+    "route_id": "r13876839",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876838_Mo-Su",
+    "trip_headsign": "Nilampathijamukal",
+    "direction_id": "0",
+    "shape_id": "r13876838"
+  },
+  {
+    "route_id": "r13876839",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876837_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13876837"
+  },
+  {
+    "route_id": "r13876847",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876846_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13876846"
+  },
+  {
+    "route_id": "r13876847",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876845_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13876845"
+  },
+  {
+    "route_id": "r13876859",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876857_Mo-Su",
+    "trip_headsign": "Kakkanad CEPZ",
+    "direction_id": "0",
+    "shape_id": "r13876857"
+  },
+  {
+    "route_id": "r13876859",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876858_Mo-Su",
+    "trip_headsign": "Edakochi",
+    "direction_id": "1",
+    "shape_id": "r13876858"
+  },
+  {
+    "route_id": "r13876903",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876902_Mo-Su",
+    "trip_headsign": "Medical College",
+    "direction_id": "0",
+    "shape_id": "r13876902"
+  },
+  {
+    "route_id": "r13876903",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876901_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13876901"
+  },
+  {
+    "route_id": "r13876930",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876929_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13876929"
+  },
+  {
+    "route_id": "r13876930",
+    "service_id": "Mo-Su",
+    "trip_id": "r13876928_Mo-Su",
+    "trip_headsign": "Amrutha Hospital",
+    "direction_id": "1",
+    "shape_id": "r13876928"
+  },
+  {
+    "route_id": "r13880472",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880471_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13880471"
+  },
+  {
+    "route_id": "r13880472",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880470_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13880470"
+  },
+  {
+    "route_id": "r13880518",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880516_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13880516"
+  },
+  {
+    "route_id": "r13880518",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880517_Mo-Su",
+    "trip_headsign": "Kinfra",
+    "direction_id": "1",
+    "shape_id": "r13880517"
+  },
+  {
+    "route_id": "r13880777",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880776_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13880776"
+  },
+  {
+    "route_id": "r13880777",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880775_Mo-Su",
+    "trip_headsign": "HMT Colony Junction",
+    "direction_id": "1",
+    "shape_id": "r13880775"
+  },
+  {
+    "route_id": "r13880914",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880913_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13880913"
+  },
+  {
+    "route_id": "r13880914",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880912_Mo-Su",
+    "trip_headsign": "BM College",
+    "direction_id": "1",
+    "shape_id": "r13880912"
+  },
+  {
+    "route_id": "r13880993",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880991_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13880991"
+  },
+  {
+    "route_id": "r13880993",
+    "service_id": "Mo-Su",
+    "trip_id": "r13880992_Mo-Su",
+    "trip_headsign": "Padathikkara",
+    "direction_id": "1",
+    "shape_id": "r13880992"
+  },
+  {
+    "route_id": "r13881199",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881198_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13881198"
+  },
+  {
+    "route_id": "r13881199",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881197_Mo-Su",
+    "trip_headsign": "Padathikkara",
+    "direction_id": "1",
+    "shape_id": "r13881197"
+  },
+  {
+    "route_id": "r13881291",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881289_Mo-Su",
+    "trip_headsign": "Kundannoor",
+    "direction_id": "0",
+    "shape_id": "r13881289"
+  },
+  {
+    "route_id": "r13881291",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881290_Mo-Su",
+    "trip_headsign": "Kinfra",
+    "direction_id": "1",
+    "shape_id": "r13881290"
+  },
+  {
+    "route_id": "r13881313",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881311_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13881311"
+  },
+  {
+    "route_id": "r13881313",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881312_Mo-Su",
+    "trip_headsign": "Kinfra",
+    "direction_id": "1",
+    "shape_id": "r13881312"
+  },
+  {
+    "route_id": "r13881342",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881341_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13881341"
+  },
+  {
+    "route_id": "r13881342",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881340_Mo-Su",
+    "trip_headsign": "HMT Junction",
+    "direction_id": "1",
+    "shape_id": "r13881340"
+  },
+  {
+    "route_id": "r13881364",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881362_Mo-Su",
+    "trip_headsign": "Kundannoor",
+    "direction_id": "0",
+    "shape_id": "r13881362"
+  },
+  {
+    "route_id": "r13881364",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881363_Mo-Su",
+    "trip_headsign": "HMT Junction",
+    "direction_id": "1",
+    "shape_id": "r13881363"
+  },
+  {
+    "route_id": "r13881373",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881372_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13881372"
+  },
+  {
+    "route_id": "r13881373",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881371_Mo-Su",
+    "trip_headsign": "Kalamassery",
+    "direction_id": "1",
+    "shape_id": "r13881371"
+  },
+  {
+    "route_id": "r13881389",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881387_Mo-Su",
+    "trip_headsign": "Kalamassery",
+    "direction_id": "0",
+    "shape_id": "r13881387"
+  },
+  {
+    "route_id": "r13881389",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881388_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13881388"
+  },
+  {
+    "route_id": "r13881486",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881484_Mo-Su",
+    "trip_headsign": "Mulanthuruthy",
+    "direction_id": "0",
+    "shape_id": "r13881484"
+  },
+  {
+    "route_id": "r13881486",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881485_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13881485"
+  },
+  {
+    "route_id": "r13881505",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881503_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13881503"
+  },
+  {
+    "route_id": "r13881505",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881504_Mo-Su",
+    "trip_headsign": "Edachira",
+    "direction_id": "1",
+    "shape_id": "r13881504"
+  },
+  {
+    "route_id": "r13881512",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881510_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13881510"
+  },
+  {
+    "route_id": "r13881512",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881511_Mo-Su",
+    "trip_headsign": "HMT Junction",
+    "direction_id": "1",
+    "shape_id": "r13881511"
+  },
+  {
+    "route_id": "r13881577",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881576_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13881576"
+  },
+  {
+    "route_id": "r13881577",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881575_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13881575"
+  },
+  {
+    "route_id": "r13881584",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881583_Mo-Su",
+    "trip_headsign": "Rajagiri",
+    "direction_id": "0",
+    "shape_id": "r13881583"
+  },
+  {
+    "route_id": "r13881584",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881582_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13881582"
+  },
+  {
+    "route_id": "r13881608",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881607_Mo-Su",
+    "trip_headsign": "Kothad ferry",
+    "direction_id": "0",
+    "shape_id": "r13881607"
+  },
+  {
+    "route_id": "r13881608",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881606_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13881606"
+  },
+  {
+    "route_id": "r13881616",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881614_Mo-Su",
+    "trip_headsign": "Wellington Island",
+    "direction_id": "0",
+    "shape_id": "r13881614"
+  },
+  {
+    "route_id": "r13881616",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881615_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "1",
+    "shape_id": "r13881615"
+  },
+  {
+    "route_id": "r13881662",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881661_Mo-Su",
+    "trip_headsign": "Kottuvally",
+    "direction_id": "0",
+    "shape_id": "r13881661"
+  },
+  {
+    "route_id": "r13881662",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881660_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13881660"
+  },
+  {
+    "route_id": "r13881684",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881682_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13881682"
+  },
+  {
+    "route_id": "r13881684",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881683_Mo-Su",
+    "trip_headsign": "Ambalamugal",
+    "direction_id": "1",
+    "shape_id": "r13881683"
+  },
+  {
+    "route_id": "r13881708",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881706_Mo-Su",
+    "trip_headsign": "Mulanthuruthy",
+    "direction_id": "0",
+    "shape_id": "r13881706"
+  },
+  {
+    "route_id": "r13881708",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881707_Mo-Su",
+    "trip_headsign": "Kalamassery",
+    "direction_id": "1",
+    "shape_id": "r13881707"
+  },
+  {
+    "route_id": "r13881745",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881744_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13881744"
+  },
+  {
+    "route_id": "r13881745",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881743_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13881743"
+  },
+  {
+    "route_id": "r13881798",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881797_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13881797"
+  },
+  {
+    "route_id": "r13881798",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881796_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "1",
+    "shape_id": "r13881796"
+  },
+  {
+    "route_id": "r13881820",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881818_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13881818"
+  },
+  {
+    "route_id": "r13881820",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881819_Mo-Su",
+    "trip_headsign": "Kakkanad CEPZ",
+    "direction_id": "1",
+    "shape_id": "r13881819"
+  },
+  {
+    "route_id": "r13881825",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881823_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13881823"
+  },
+  {
+    "route_id": "r13881825",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881824_Mo-Su",
+    "trip_headsign": "Kakkanad CEPZ",
+    "direction_id": "1",
+    "shape_id": "r13881824"
+  },
+  {
+    "route_id": "r13881885",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881883_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13881883"
+  },
+  {
+    "route_id": "r13881885",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881884_Mo-Su",
+    "trip_headsign": "Ambalamugal",
+    "direction_id": "1",
+    "shape_id": "r13881884"
+  },
+  {
+    "route_id": "r13881908",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881906_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13881906"
+  },
+  {
+    "route_id": "r13881908",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881907_Mo-Su",
+    "trip_headsign": "Elamakkara",
+    "direction_id": "1",
+    "shape_id": "r13881907"
+  },
+  {
+    "route_id": "r13881936",
+    "service_id": "Mo-Su",
+    "trip_id": "r13881935_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13881935"
+  },
+  {
+    "route_id": "r13882036",
+    "service_id": "Mo-Su",
+    "trip_id": "r13882035_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "0",
+    "shape_id": "r13882035"
+  },
+  {
+    "route_id": "r13882036",
+    "service_id": "Mo-Su",
+    "trip_id": "r13882034_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "1",
+    "shape_id": "r13882034"
+  },
+  {
+    "route_id": "r13882058",
+    "service_id": "Mo-Su",
+    "trip_id": "r13882056_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13882056"
+  },
+  {
+    "route_id": "r13882058",
+    "service_id": "Mo-Su",
+    "trip_id": "r13882057_Mo-Su",
+    "trip_headsign": "Aroor",
+    "direction_id": "1",
+    "shape_id": "r13882057"
+  },
+  {
+    "route_id": "r13882166",
+    "service_id": "Mo-Su",
+    "trip_id": "r13882165_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13882165"
+  },
+  {
+    "route_id": "r13882166",
+    "service_id": "Mo-Su",
+    "trip_id": "r13882164_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "1",
+    "shape_id": "r13882164"
+  },
+  {
+    "route_id": "r13882191",
+    "service_id": "Mo-Su",
+    "trip_id": "r13882189_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13882189"
+  },
+  {
+    "route_id": "r13882191",
+    "service_id": "Mo-Su",
+    "trip_id": "r13882190_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13882190"
+  },
+  {
+    "route_id": "r13884598",
+    "service_id": "Mo-Su",
+    "trip_id": "r13884597_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "0",
+    "shape_id": "r13884597"
+  },
+  {
+    "route_id": "r13884598",
+    "service_id": "Mo-Su",
+    "trip_id": "r13884596_Mo-Su",
+    "trip_headsign": "Amrutha Hospital",
+    "direction_id": "1",
+    "shape_id": "r13884596"
+  },
+  {
+    "route_id": "r13903189",
+    "service_id": "Mo-Su",
+    "trip_id": "r13903188_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13903188"
+  },
+  {
+    "route_id": "r13903189",
+    "service_id": "Mo-Su",
+    "trip_id": "r13903187_Mo-Su",
+    "trip_headsign": "Aroor",
+    "direction_id": "1",
+    "shape_id": "r13903187"
+  },
+  {
+    "route_id": "r13904698",
+    "service_id": "Mo-Su",
+    "trip_id": "r13904696_Mo-Su",
+    "trip_headsign": "Ernakulam south",
+    "direction_id": "0",
+    "shape_id": "r13904696"
+  },
+  {
+    "route_id": "r13904698",
+    "service_id": "Mo-Su",
+    "trip_id": "r13904697_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "1",
+    "shape_id": "r13904697"
+  },
+  {
+    "route_id": "r13906443",
+    "service_id": "Mo-Su",
+    "trip_id": "r13906442_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13906442"
+  },
+  {
+    "route_id": "r13906443",
+    "service_id": "Mo-Su",
+    "trip_id": "r13906441_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "1",
+    "shape_id": "r13906441"
+  },
+  {
+    "route_id": "r13906521",
+    "service_id": "Mo-Su",
+    "trip_id": "r13906520_Mo-Su",
+    "trip_headsign": "Thathappilly",
+    "direction_id": "0",
+    "shape_id": "r13906520"
+  },
+  {
+    "route_id": "r13906521",
+    "service_id": "Mo-Su",
+    "trip_id": "r13906519_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13906519"
+  },
+  {
+    "route_id": "r13907492",
+    "service_id": "Mo-Su",
+    "trip_id": "r13907491_Mo-Su",
+    "trip_headsign": "Medical College",
+    "direction_id": "0",
+    "shape_id": "r13907491"
+  },
+  {
+    "route_id": "r13907492",
+    "service_id": "Mo-Su",
+    "trip_id": "r13907490_Mo-Su",
+    "trip_headsign": "HMT",
+    "direction_id": "1",
+    "shape_id": "r13907490"
+  },
+  {
+    "route_id": "r13909778",
+    "service_id": "Mo-Su",
+    "trip_id": "r13909777_Mo-Su",
+    "trip_headsign": "Malliankara",
+    "direction_id": "0",
+    "shape_id": "r13909777"
+  },
+  {
+    "route_id": "r13909778",
+    "service_id": "Mo-Su",
+    "trip_id": "r13909776_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "1",
+    "shape_id": "r13909776"
+  },
+  {
+    "route_id": "r13909820",
+    "service_id": "Mo-Su",
+    "trip_id": "r13909819_Mo-Su",
+    "trip_headsign": "Piravom",
+    "direction_id": "0",
+    "shape_id": "r13909819"
+  },
+  {
+    "route_id": "r13909820",
+    "service_id": "Mo-Su",
+    "trip_id": "r13909818_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13909818"
+  },
+  {
+    "route_id": "r13910486",
+    "service_id": "Mo-Su",
+    "trip_id": "r13910485_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13910485"
+  },
+  {
+    "route_id": "r13910486",
+    "service_id": "Mo-Su",
+    "trip_id": "r13910484_Mo-Su",
+    "trip_headsign": "Aroor",
+    "direction_id": "1",
+    "shape_id": "r13910484"
+  },
+  {
+    "route_id": "r13910537",
+    "service_id": "Mo-Su",
+    "trip_id": "r13910535_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13910535"
+  },
+  {
+    "route_id": "r13910537",
+    "service_id": "Mo-Su",
+    "trip_id": "r13910536_Mo-Su",
+    "trip_headsign": "Aroor",
+    "direction_id": "1",
+    "shape_id": "r13910536"
+  },
+  {
+    "route_id": "r13910734",
+    "service_id": "Mo-Su",
+    "trip_id": "r13910733_Mo-Su",
+    "trip_headsign": "Piravom",
+    "direction_id": "0",
+    "shape_id": "r13910733"
+  },
+  {
+    "route_id": "r13910734",
+    "service_id": "Mo-Su",
+    "trip_id": "r13910732_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13910732"
+  },
+  {
+    "route_id": "r13913117",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913116_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "0",
+    "shape_id": "r13913116"
+  },
+  {
+    "route_id": "r13913117",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913115_Mo-Su",
+    "trip_headsign": "Amrutha Hospital",
+    "direction_id": "1",
+    "shape_id": "r13913115"
+  },
+  {
+    "route_id": "r13913605",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913604_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13913604"
+  },
+  {
+    "route_id": "r13913605",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913603_Mo-Su",
+    "trip_headsign": "Piravom",
+    "direction_id": "1",
+    "shape_id": "r13913603"
+  },
+  {
+    "route_id": "r13913676",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913675_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13913675"
+  },
+  {
+    "route_id": "r13913676",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913674_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13913674"
+  },
+  {
+    "route_id": "r13913784",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913782_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "0",
+    "shape_id": "r13913782"
+  },
+  {
+    "route_id": "r13913784",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913783_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13913783"
+  },
+  {
+    "route_id": "r13913848",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913846_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13913846"
+  },
+  {
+    "route_id": "r13913848",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913847_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13913847"
+  },
+  {
+    "route_id": "r13913981",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913980_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13913980"
+  },
+  {
+    "route_id": "r13913981",
+    "service_id": "Mo-Su",
+    "trip_id": "r13913979_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13913979"
+  },
+  {
+    "route_id": "r13914088",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914086_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "0",
+    "shape_id": "r13914086"
+  },
+  {
+    "route_id": "r13914088",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914087_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13914087"
+  },
+  {
+    "route_id": "r13914117",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914116_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "0",
+    "shape_id": "r13914116"
+  },
+  {
+    "route_id": "r13914117",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914115_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "1",
+    "shape_id": "r13914115"
+  },
+  {
+    "route_id": "r13914137",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914135_Mo-Su",
+    "trip_headsign": "Perumbavoor",
+    "direction_id": "0",
+    "shape_id": "r13914135"
+  },
+  {
+    "route_id": "r13914137",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914136_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13914136"
+  },
+  {
+    "route_id": "r13914140",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914139_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13914139"
+  },
+  {
+    "route_id": "r13914140",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914138_Mo-Su",
+    "trip_headsign": "Eloor",
+    "direction_id": "1",
+    "shape_id": "r13914138"
+  },
+  {
+    "route_id": "r13914203",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914202_Mo-Su",
+    "trip_headsign": "Piravom",
+    "direction_id": "0",
+    "shape_id": "r13914202"
+  },
+  {
+    "route_id": "r13914203",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914201_Mo-Su",
+    "trip_headsign": "Amrutha Hospital",
+    "direction_id": "1",
+    "shape_id": "r13914201"
+  },
+  {
+    "route_id": "r13914222",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914220_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13914220"
+  },
+  {
+    "route_id": "r13914222",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914221_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "1",
+    "shape_id": "r13914221"
+  },
+  {
+    "route_id": "r13914247",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914245_Mo-Su",
+    "trip_headsign": "Kalamassery",
+    "direction_id": "0",
+    "shape_id": "r13914245"
+  },
+  {
+    "route_id": "r13914247",
+    "service_id": "Mo-Su",
+    "trip_id": "r13914246_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13914246"
+  },
+  {
+    "route_id": "r13916416",
+    "service_id": "Mo-Su",
+    "trip_id": "r13916415_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13916415"
+  },
+  {
+    "route_id": "r13916416",
+    "service_id": "Mo-Su",
+    "trip_id": "r13916414_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13916414"
+  },
+  {
+    "route_id": "r13950508",
+    "service_id": "Mo-Su",
+    "trip_id": "r13950507_Mo-Su",
+    "trip_headsign": "Vypin",
+    "direction_id": "0",
+    "shape_id": "r13950507"
+  },
+  {
+    "route_id": "r13950508",
+    "service_id": "Mo-Su",
+    "trip_id": "r13950506_Mo-Su",
+    "trip_headsign": "Cherai",
+    "direction_id": "1",
+    "shape_id": "r13950506"
+  },
+  {
+    "route_id": "r13951395",
+    "service_id": "Mo-Su",
+    "trip_id": "r13951394_Mo-Su",
+    "trip_headsign": "Vypin",
+    "direction_id": "0",
+    "shape_id": "r13951394"
+  },
+  {
+    "route_id": "r13951395",
+    "service_id": "Mo-Su",
+    "trip_id": "r13951393_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "1",
+    "shape_id": "r13951393"
+  },
+  {
+    "route_id": "r13952129",
+    "service_id": "Mo-Su",
+    "trip_id": "r13952127_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13952127"
+  },
+  {
+    "route_id": "r13952129",
+    "service_id": "Mo-Su",
+    "trip_id": "r13952128_Mo-Su",
+    "trip_headsign": "Puthukkalavattam",
+    "direction_id": "1",
+    "shape_id": "r13952128"
+  },
+  {
+    "route_id": "r13953586",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953585_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13953585"
+  },
+  {
+    "route_id": "r13953586",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953584_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13953584"
+  },
+  {
+    "route_id": "r13953621",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953620_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13953620"
+  },
+  {
+    "route_id": "r13953621",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953619_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13953619"
+  },
+  {
+    "route_id": "r13953626",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953625_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13953625"
+  },
+  {
+    "route_id": "r13953626",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953624_Mo-Su",
+    "trip_headsign": "Irumpanam",
+    "direction_id": "1",
+    "shape_id": "r13953624"
+  },
+  {
+    "route_id": "r13953641",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953640_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13953640"
+  },
+  {
+    "route_id": "r13953641",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953639_Mo-Su",
+    "trip_headsign": "Chittoor",
+    "direction_id": "1",
+    "shape_id": "r13953639"
+  },
+  {
+    "route_id": "r13953702",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953701_Mo-Su",
+    "trip_headsign": "Pukkattupady",
+    "direction_id": "0",
+    "shape_id": "r13953701"
+  },
+  {
+    "route_id": "r13953702",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953700_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "1",
+    "shape_id": "r13953700"
+  },
+  {
+    "route_id": "r13953732",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953731_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13953731"
+  },
+  {
+    "route_id": "r13953732",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953730_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13953730"
+  },
+  {
+    "route_id": "r13953737",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953735_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13953735"
+  },
+  {
+    "route_id": "r13953737",
+    "service_id": "Mo-Su",
+    "trip_id": "r13953736_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "1",
+    "shape_id": "r13953736"
+  },
+  {
+    "route_id": "r13954095",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954093_Mo-Su",
+    "trip_headsign": "Karimugal",
+    "direction_id": "0",
+    "shape_id": "r13954093"
+  },
+  {
+    "route_id": "r13954095",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954094_Mo-Su",
+    "trip_headsign": "Infopark",
+    "direction_id": "1",
+    "shape_id": "r13954094"
+  },
+  {
+    "route_id": "r13954116",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954114_Mo-Su",
+    "trip_headsign": "Varapuzha",
+    "direction_id": "0",
+    "shape_id": "r13954114"
+  },
+  {
+    "route_id": "r13954116",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954115_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "1",
+    "shape_id": "r13954115"
+  },
+  {
+    "route_id": "r13954124",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954123_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13954123"
+  },
+  {
+    "route_id": "r13954124",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954122_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13954122"
+  },
+  {
+    "route_id": "r13954345",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954343_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "0",
+    "shape_id": "r13954343"
+  },
+  {
+    "route_id": "r13954345",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954344_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "1",
+    "shape_id": "r13954344"
+  },
+  {
+    "route_id": "r13954356",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954354_Mo-Su",
+    "trip_headsign": "Irumpanam",
+    "direction_id": "0",
+    "shape_id": "r13954354"
+  },
+  {
+    "route_id": "r13954356",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954355_Mo-Su",
+    "trip_headsign": "Chittoor Temple",
+    "direction_id": "1",
+    "shape_id": "r13954355"
+  },
+  {
+    "route_id": "r13954389",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954388_Mo-Su",
+    "trip_headsign": "Palarivattom",
+    "direction_id": "0",
+    "shape_id": "r13954388"
+  },
+  {
+    "route_id": "r13954389",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954387_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13954387"
+  },
+  {
+    "route_id": "r13954410",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954409_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13954409"
+  },
+  {
+    "route_id": "r13954410",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954408_Mo-Su",
+    "trip_headsign": "Pukkattupady",
+    "direction_id": "1",
+    "shape_id": "r13954408"
+  },
+  {
+    "route_id": "r13954424",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954423_Mo-Su",
+    "trip_headsign": "Thevara Ferry",
+    "direction_id": "0",
+    "shape_id": "r13954423"
+  },
+  {
+    "route_id": "r13954424",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954422_Mo-Su",
+    "trip_headsign": "Infopark",
+    "direction_id": "1",
+    "shape_id": "r13954422"
+  },
+  {
+    "route_id": "r13954437",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954435_Mo-Su",
+    "trip_headsign": "Infopark",
+    "direction_id": "0",
+    "shape_id": "r13954435"
+  },
+  {
+    "route_id": "r13954437",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954436_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "1",
+    "shape_id": "r13954436"
+  },
+  {
+    "route_id": "r13954457",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954456_Mo-Su",
+    "trip_headsign": "Ernakulam Boat Jetty",
+    "direction_id": "0",
+    "shape_id": "r13954456"
+  },
+  {
+    "route_id": "r13954457",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954455_Mo-Su",
+    "trip_headsign": "Edachira",
+    "direction_id": "1",
+    "shape_id": "r13954455"
+  },
+  {
+    "route_id": "r13954841",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954839_Mo-Su",
+    "trip_headsign": "Poothotta",
+    "direction_id": "0",
+    "shape_id": "r13954839"
+  },
+  {
+    "route_id": "r13954841",
+    "service_id": "Mo-Su",
+    "trip_id": "r13954840_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13954840"
+  },
+  {
+    "route_id": "r13956157",
+    "service_id": "Mo-Su",
+    "trip_id": "r13956156_Mo-Su",
+    "trip_headsign": "Chathamma",
+    "direction_id": "0",
+    "shape_id": "r13956156"
+  },
+  {
+    "route_id": "r13956157",
+    "service_id": "Mo-Su",
+    "trip_id": "r13956155_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13956155"
+  },
+  {
+    "route_id": "r13956262",
+    "service_id": "Mo-Su",
+    "trip_id": "r13956261_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "0",
+    "shape_id": "r13956261"
+  },
+  {
+    "route_id": "r13956262",
+    "service_id": "Mo-Su",
+    "trip_id": "r13956260_Mo-Su",
+    "trip_headsign": "Perumpadappu",
+    "direction_id": "1",
+    "shape_id": "r13956260"
+  },
+  {
+    "route_id": "r13957653",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957651_Mo-Su",
+    "trip_headsign": "Thevakkal",
+    "direction_id": "0",
+    "shape_id": "r13957651"
+  },
+  {
+    "route_id": "r13957653",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957652_Mo-Su",
+    "trip_headsign": "Kumbalam Railway Station",
+    "direction_id": "1",
+    "shape_id": "r13957652"
+  },
+  {
+    "route_id": "r13957657",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957656_Mo-Su",
+    "trip_headsign": "Kumbalam Railway Station",
+    "direction_id": "0",
+    "shape_id": "r13957656"
+  },
+  {
+    "route_id": "r13957657",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957655_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13957655"
+  },
+  {
+    "route_id": "r13957676",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957675_Mo-Su",
+    "trip_headsign": "Pambayimoola",
+    "direction_id": "0",
+    "shape_id": "r13957675"
+  },
+  {
+    "route_id": "r13957676",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957674_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13957674"
+  },
+  {
+    "route_id": "r13957690",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957689_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13957689"
+  },
+  {
+    "route_id": "r13957690",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957688_Mo-Su",
+    "trip_headsign": "HMT Junction",
+    "direction_id": "1",
+    "shape_id": "r13957688"
+  },
+  {
+    "route_id": "r13957732",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957730_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13957730"
+  },
+  {
+    "route_id": "r13957732",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957731_Mo-Su",
+    "trip_headsign": "Cheppanam",
+    "direction_id": "1",
+    "shape_id": "r13957731"
+  },
+  {
+    "route_id": "r13957760",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957759_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13957759"
+  },
+  {
+    "route_id": "r13957760",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957758_Mo-Su",
+    "trip_headsign": "Cheppanam",
+    "direction_id": "1",
+    "shape_id": "r13957758"
+  },
+  {
+    "route_id": "r13957778",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957777_Mo-Su",
+    "trip_headsign": "Kakkanad CEPZ",
+    "direction_id": "0",
+    "shape_id": "r13957777"
+  },
+  {
+    "route_id": "r13957778",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957776_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13957776"
+  },
+  {
+    "route_id": "r13957779",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957775_Mo-Su",
+    "trip_headsign": "Irumpanam",
+    "direction_id": "0",
+    "shape_id": "r13957775"
+  },
+  {
+    "route_id": "r13957779",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957774_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13957774"
+  },
+  {
+    "route_id": "r13957787",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957786_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13957786"
+  },
+  {
+    "route_id": "r13957787",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957785_Mo-Su",
+    "trip_headsign": "Chittoor Ferry",
+    "direction_id": "1",
+    "shape_id": "r13957785"
+  },
+  {
+    "route_id": "r13957793",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957792_Mo-Su",
+    "trip_headsign": "Thevara",
+    "direction_id": "0",
+    "shape_id": "r13957792"
+  },
+  {
+    "route_id": "r13957793",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957791_Mo-Su",
+    "trip_headsign": "Elamakkara",
+    "direction_id": "1",
+    "shape_id": "r13957791"
+  },
+  {
+    "route_id": "r13957801",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957799_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "0",
+    "shape_id": "r13957799"
+  },
+  {
+    "route_id": "r13957801",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957800_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "1",
+    "shape_id": "r13957800"
+  },
+  {
+    "route_id": "r13957809",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957808_Mo-Su",
+    "trip_headsign": "Kannamaly",
+    "direction_id": "0",
+    "shape_id": "r13957808"
+  },
+  {
+    "route_id": "r13957809",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957807_Mo-Su",
+    "trip_headsign": "Chellanam",
+    "direction_id": "1",
+    "shape_id": "r13957807"
+  },
+  {
+    "route_id": "r13957896",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957895_Mo-Su",
+    "trip_headsign": "Mattancherry",
+    "direction_id": "0",
+    "shape_id": "r13957895"
+  },
+  {
+    "route_id": "r13957896",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957894_Mo-Su",
+    "trip_headsign": "Kandakkadavu",
+    "direction_id": "1",
+    "shape_id": "r13957894"
+  },
+  {
+    "route_id": "r13957907",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957906_Mo-Su",
+    "trip_headsign": "Thoppumpady",
+    "direction_id": "0",
+    "shape_id": "r13957906"
+  },
+  {
+    "route_id": "r13957907",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957905_Mo-Su",
+    "trip_headsign": "Kandakkadavu",
+    "direction_id": "1",
+    "shape_id": "r13957905"
+  },
+  {
+    "route_id": "r13957927",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957926_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13957926"
+  },
+  {
+    "route_id": "r13957927",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957925_Mo-Su",
+    "trip_headsign": "Chottanikkara",
+    "direction_id": "1",
+    "shape_id": "r13957925"
+  },
+  {
+    "route_id": "r13957936",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957935_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13957935"
+  },
+  {
+    "route_id": "r13957936",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957934_Mo-Su",
+    "trip_headsign": "Kozhivettumveli",
+    "direction_id": "1",
+    "shape_id": "r13957934"
+  },
+  {
+    "route_id": "r13957965",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957963_Mo-Su",
+    "trip_headsign": "Karimugal",
+    "direction_id": "0",
+    "shape_id": "r13957963"
+  },
+  {
+    "route_id": "r13957965",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957964_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13957964"
+  },
+  {
+    "route_id": "r13957988",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957987_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13957987"
+  },
+  {
+    "route_id": "r13957988",
+    "service_id": "Mo-Su",
+    "trip_id": "r13957986_Mo-Su",
+    "trip_headsign": "Karimugal",
+    "direction_id": "1",
+    "shape_id": "r13957986"
+  },
+  {
+    "route_id": "r13958030",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958028_Mo-Su",
+    "trip_headsign": "Munambam",
+    "direction_id": "0",
+    "shape_id": "r13958028"
+  },
+  {
+    "route_id": "r13958030",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958029_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "1",
+    "shape_id": "r13958029"
+  },
+  {
+    "route_id": "r13958049",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958047_Mo-Su",
+    "trip_headsign": "West Kadungalloor",
+    "direction_id": "0",
+    "shape_id": "r13958047"
+  },
+  {
+    "route_id": "r13958049",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958048_Mo-Su",
+    "trip_headsign": "Pathalam",
+    "direction_id": "1",
+    "shape_id": "r13958048"
+  },
+  {
+    "route_id": "r13958060",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958058_Mo-Su",
+    "trip_headsign": "West Kadungalloor",
+    "direction_id": "0",
+    "shape_id": "r13958058"
+  },
+  {
+    "route_id": "r13958060",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958059_Mo-Su",
+    "trip_headsign": "Kothad Ferry",
+    "direction_id": "1",
+    "shape_id": "r13958059"
+  },
+  {
+    "route_id": "r13958093",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958091_Mo-Su",
+    "trip_headsign": "Nadakkavu",
+    "direction_id": "0",
+    "shape_id": "r13958091"
+  },
+  {
+    "route_id": "r13958093",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958092_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13958092"
+  },
+  {
+    "route_id": "r13958107",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958106_Mo-Su",
+    "trip_headsign": "Nadakkavu",
+    "direction_id": "0",
+    "shape_id": "r13958106"
+  },
+  {
+    "route_id": "r13958107",
+    "service_id": "Mo-Su",
+    "trip_id": "r13958105_Mo-Su",
+    "trip_headsign": "Amrutha Hospital",
+    "direction_id": "1",
+    "shape_id": "r13958105"
+  },
+  {
+    "route_id": "r13961434",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961433_Mo-Su",
+    "trip_headsign": "Kozhivettumveli",
+    "direction_id": "0",
+    "shape_id": "r13961433"
+  },
+  {
+    "route_id": "r13961485",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961483_Mo-Su",
+    "trip_headsign": "Medical College",
+    "direction_id": "0",
+    "shape_id": "r13961483"
+  },
+  {
+    "route_id": "r13961485",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961484_Mo-Su",
+    "trip_headsign": "Infopark",
+    "direction_id": "1",
+    "shape_id": "r13961484"
+  },
+  {
+    "route_id": "r13961513",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961511_Mo-Su",
+    "trip_headsign": "Thrippoonithura",
+    "direction_id": "0",
+    "shape_id": "r13961511"
+  },
+  {
+    "route_id": "r13961513",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961512_Mo-Su",
+    "trip_headsign": "Medical College",
+    "direction_id": "1",
+    "shape_id": "r13961512"
+  },
+  {
+    "route_id": "r13961523",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961522_Mo-Su",
+    "trip_headsign": "Chowara",
+    "direction_id": "0",
+    "shape_id": "r13961522"
+  },
+  {
+    "route_id": "r13961523",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961521_Mo-Su",
+    "trip_headsign": "Angamaly",
+    "direction_id": "1",
+    "shape_id": "r13961521"
+  },
+  {
+    "route_id": "r13961533",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961532_Mo-Su",
+    "trip_headsign": "Pukkattupady",
+    "direction_id": "0",
+    "shape_id": "r13961532"
+  },
+  {
+    "route_id": "r13961533",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961531_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13961531"
+  },
+  {
+    "route_id": "r13961618",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961617_Mo-Su",
+    "trip_headsign": "Keezhmadu",
+    "direction_id": "0",
+    "shape_id": "r13961617"
+  },
+  {
+    "route_id": "r13961618",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961616_Mo-Su",
+    "trip_headsign": "HMT Junction",
+    "direction_id": "1",
+    "shape_id": "r13961616"
+  },
+  {
+    "route_id": "r13961664",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961662_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13961662"
+  },
+  {
+    "route_id": "r13961664",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961663_Mo-Su",
+    "trip_headsign": "Chittoor Temple",
+    "direction_id": "1",
+    "shape_id": "r13961663"
+  },
+  {
+    "route_id": "r13961671",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961670_Mo-Su",
+    "trip_headsign": "Panangad",
+    "direction_id": "0",
+    "shape_id": "r13961670"
+  },
+  {
+    "route_id": "r13961671",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961669_Mo-Su",
+    "trip_headsign": "Glass Factory",
+    "direction_id": "1",
+    "shape_id": "r13961669"
+  },
+  {
+    "route_id": "r13961680",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961678_Mo-Su",
+    "trip_headsign": "Glass Factory",
+    "direction_id": "0",
+    "shape_id": "r13961678"
+  },
+  {
+    "route_id": "r13961680",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961679_Mo-Su",
+    "trip_headsign": "Chathamma",
+    "direction_id": "1",
+    "shape_id": "r13961679"
+  },
+  {
+    "route_id": "r13961702",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961701_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13961701"
+  },
+  {
+    "route_id": "r13961702",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961700_Mo-Su",
+    "trip_headsign": "Pukkattupady",
+    "direction_id": "1",
+    "shape_id": "r13961700"
+  },
+  {
+    "route_id": "r13961707",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961705_Mo-Su",
+    "trip_headsign": "Piravom",
+    "direction_id": "0",
+    "shape_id": "r13961705"
+  },
+  {
+    "route_id": "r13961707",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961706_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "1",
+    "shape_id": "r13961706"
+  },
+  {
+    "route_id": "r13961738",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961737_Mo-Su",
+    "trip_headsign": "Njarakkal",
+    "direction_id": "0",
+    "shape_id": "r13961737"
+  },
+  {
+    "route_id": "r13961738",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961736_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13961736"
+  },
+  {
+    "route_id": "r13961822",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961820_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13961820"
+  },
+  {
+    "route_id": "r13961822",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961821_Mo-Su",
+    "trip_headsign": "Chathamma",
+    "direction_id": "1",
+    "shape_id": "r13961821"
+  },
+  {
+    "route_id": "r13961873",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961871_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13961871"
+  },
+  {
+    "route_id": "r13961873",
+    "service_id": "Mo-Su",
+    "trip_id": "r13961872_Mo-Su",
+    "trip_headsign": "Cherai",
+    "direction_id": "1",
+    "shape_id": "r13961872"
+  },
+  {
+    "route_id": "r13968495",
+    "service_id": "Mo-Su",
+    "trip_id": "r13968494_Mo-Su",
+    "trip_headsign": "Ernakulam South",
+    "direction_id": "0",
+    "shape_id": "r13968494"
+  },
+  {
+    "route_id": "r13968495",
+    "service_id": "Mo-Su",
+    "trip_id": "r13968493_Mo-Su",
+    "trip_headsign": "Ponekkara",
+    "direction_id": "1",
+    "shape_id": "r13968493"
+  },
+  {
+    "route_id": "r13981857",
+    "service_id": "Mo-Su",
+    "trip_id": "r13981856_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "0",
+    "shape_id": "r13981856"
+  },
+  {
+    "route_id": "r13981857",
+    "service_id": "Mo-Su",
+    "trip_id": "r13981855_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13981855"
+  },
+  {
+    "route_id": "r13981896",
+    "service_id": "Mo-Su",
+    "trip_id": "r13981895_Mo-Su",
+    "trip_headsign": "High Court",
+    "direction_id": "0",
+    "shape_id": "r13981895"
+  },
+  {
+    "route_id": "r13981896",
+    "service_id": "Mo-Su",
+    "trip_id": "r13981894_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13981894"
+  },
+  {
+    "route_id": "r13981912",
+    "service_id": "Mo-Su",
+    "trip_id": "r13981911_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "0",
+    "shape_id": "r13981911"
+  },
+  {
+    "route_id": "r13981912",
+    "service_id": "Mo-Su",
+    "trip_id": "r13981910_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13981910"
+  },
+  {
+    "route_id": "r13981927",
+    "service_id": "Mo-Su",
+    "trip_id": "r13981926_Mo-Su",
+    "trip_headsign": "Kakkanad",
+    "direction_id": "0",
+    "shape_id": "r13981926"
+  },
+  {
+    "route_id": "r13981927",
+    "service_id": "Mo-Su",
+    "trip_id": "r13981925_Mo-Su",
+    "trip_headsign": "Fort Kochi",
+    "direction_id": "1",
+    "shape_id": "r13981925"
+  },
+  {
+    "route_id": "r13982061",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982060_Mo-Su",
+    "trip_headsign": "North Paravur",
+    "direction_id": "0",
+    "shape_id": "r13982060"
+  },
+  {
+    "route_id": "r13982061",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982059_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "1",
+    "shape_id": "r13982059"
+  },
+  {
+    "route_id": "r13982100",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982098_Mo-Su",
+    "trip_headsign": "Kaloor",
+    "direction_id": "0",
+    "shape_id": "r13982098"
+  },
+  {
+    "route_id": "r13982100",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982099_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13982099"
+  },
+  {
+    "route_id": "r13982117",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982116_Mo-Su",
+    "trip_headsign": "Pathalam",
+    "direction_id": "0",
+    "shape_id": "r13982116"
+  },
+  {
+    "route_id": "r13982117",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982115_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13982115"
+  },
+  {
+    "route_id": "r13982150",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982149_Mo-Su",
+    "trip_headsign": "Piravom",
+    "direction_id": "0",
+    "shape_id": "r13982149"
+  },
+  {
+    "route_id": "r13982150",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982148_Mo-Su",
+    "trip_headsign": "Aluva",
+    "direction_id": "1",
+    "shape_id": "r13982148"
+  },
+  {
+    "route_id": "r13982207",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982206_Mo-Su",
+    "trip_headsign": "Vyttila",
+    "direction_id": "0",
+    "shape_id": "r13982206"
+  },
+  {
+    "route_id": "r13982207",
+    "service_id": "Mo-Su",
+    "trip_id": "r13982205_Mo-Su",
+    "trip_headsign": "Ankamaly",
+    "direction_id": "1",
+    "shape_id": "r13982205"
+  }
+]

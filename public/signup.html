@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sign Up</title>
+  <link rel="stylesheet" href="./assets/css/profile_signup.css" />
+</head>
+<body>
+  <div class="form-container glass">
+    <h2>Create Your Account</h2>
+    <form id="signupForm">
+      <input type="text" id="username" placeholder="Enter your name" required />
+      <input type="email" id="email" placeholder="Enter your email" required />
+      <input type="submit" value="Sign Up" class="btn" />
+    </form>
+  </div>
+
+  <script>
+    document.getElementById('signupForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const name = document.getElementById('username').value;
+      const email = document.getElementById('email').value;
+      localStorage.setItem('userName', name);
+      localStorage.setItem('userEmail', email);
+      window.location.href = 'profile.html';
+    });
+  </script>
+</body>
+</html>

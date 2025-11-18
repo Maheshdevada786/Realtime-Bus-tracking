@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>User Profile</title>
+  <link rel="stylesheet" href="../assets/css/admin.css" />
+</head>
+<body>
+  <header class="top-nav">
+    <h1>👤 Profile Page</h1>
+    <div class="nav-buttons">
+      <a href="./admin-login.html" class="nav-btn">Login</a>
+      <a href="./admin-signup.html" class="nav-btn">Sign Up</a>
+      <a href="./admin-dashboard.html" class="nav-btn">Admin Dashboard</a>
+    </div>
+  </header>
+
+  <main class="profile-container">
+    <form class="profile-form">
+      <div class="input-group">
+        <input type="text" id="name" placeholder=" " required />
+        <label for="name">Full Name</label>
+      </div>
+      <div class="input-group">
+        <input type="email" id="email" placeholder=" " required />
+        <label for="email">Email</label>
+      </div>
+      <div class="input-group">
+        <input type="tel" id="contact" placeholder=" " required />
+        <label for="contact">Contact Number</label>
+      </div>
+      <div class="input-group">
+        <textarea id="bio" placeholder=" " required></textarea>
+        <label for="bio">Bio</label>
+      </div>
+      <div class="btn-group">
+        <button class="btn">Save Profile</button>
+      </div>
+    </form>
+  </main>
+</body>
+</html>

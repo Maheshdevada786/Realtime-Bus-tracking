@@ -1,0 +1,287 @@
+/* =========================================================
+   GLOBAL THEME — Modern Gradient + Glass UI
+   ========================================================= */
+
+:root {
+  --bg1: #0f2027;
+  --bg2: #203a43;
+  --bg3: #2c5364;
+
+  --glass-bg: rgba(255, 255, 255, 0.06);
+  --glass-border: rgba(255, 255, 255, 0.15);
+
+  --text-light: #ffffff;
+  --text-dim: #b9cad4;
+
+  --accent: #4fd1c5;
+  --danger: #ff4f70;
+
+  --radius: 18px;
+  --shadow-1: 0 4px 16px rgba(0,0,0,0.4);
+  --shadow-2: 0 0 18px rgba(0,0,0,0.6);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+html, body {
+  background: linear-gradient(to right, var(--bg1), var(--bg2), var(--bg3));
+  height: 100%;
+  color: var(--text-light);
+  overflow: hidden;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* =========================================================
+   MAIN APP LAYOUT
+   ========================================================= */
+
+.app {
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  grid-template-columns: 340px auto;
+  gap: 0;
+  overflow: hidden;
+}
+
+/* =========================================================
+   SIDEBAR
+   ========================================================= */
+
+.side {
+  background: rgba(255,255,255,0.03);
+  backdrop-filter: blur(18px);
+  padding: 20px;
+  border-right: 1px solid var(--glass-border);
+  overflow-y: auto;
+}
+
+.brand {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.logo {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--glass-bg);
+  box-shadow: var(--shadow-1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  font-weight: 700;
+  border: 1px solid var(--glass-border);
+}
+
+.h1 {
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.h2 {
+  font-size: 12px;
+  opacity: 0.7;
+}
+
+/* =========================================================
+   CARDS
+   ========================================================= */
+
+.card {
+  background: var(--glass-bg);
+  border: 1px solid var(--glass-border);
+  padding: 16px;
+  border-radius: var(--radius);
+  margin-bottom: 18px;
+  box-shadow: var(--shadow-1);
+  transition: 0.25s;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-2);
+}
+
+/* =========================================================
+   FORM ELEMENTS
+   ========================================================= */
+
+.input, .select {
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: var(--radius);
+  border: 1px solid var(--glass-border);
+  background: rgba(255,255,255,0.08);
+  color: var(--text-light);
+  margin-bottom: 10px;
+  backdrop-filter: blur(6px);
+  outline: none;
+  transition: 0.25s;
+}
+
+.input:focus, .select:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 8px rgba(79,209,197,0.4);
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+}
+
+.small {
+  font-size: 12px;
+  color: var(--text-dim);
+  margin-top: 6px;
+}
+
+/* =========================================================
+   BUTTONS
+   ========================================================= */
+
+.btn {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid var(--glass-border);
+  padding: 10px 15px;
+  border-radius: var(--radius);
+  color: #fff;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.25s;
+  backdrop-filter: blur(4px);
+  flex: 1;
+}
+
+.btn:hover {
+  background: var(--accent);
+  color: #000;
+  transform: translateY(-2px);
+}
+
+.btn:active {
+  transform: scale(0.96);
+}
+
+/* =========================================================
+   CONTENT (RIGHT PANEL)
+   ========================================================= */
+
+.content {
+  padding: 25px;
+  overflow-y: auto;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 18px;
+}
+
+.searchbar {
+  width: 300px;
+}
+
+/* =========================================================
+   BUS LIST
+   ========================================================= */
+
+.list {
+  padding: 15px;
+}
+
+.item {
+  background: rgba(255,255,255,0.05);
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius);
+  padding: 15px;
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  cursor: pointer;
+  transition: 0.25s;
+}
+
+.item:hover {
+  background: rgba(255,255,255,0.12);
+  transform: translateX(4px);
+}
+
+.item-title {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.item-sub {
+  font-size: 13px;
+  opacity: 0.8;
+}
+
+.item .track-btn {
+  margin-top: 10px;
+  background: var(--accent);
+  color: #000;
+  padding: 8px;
+  border-radius: var(--radius);
+  text-align: center;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.track-btn:hover {
+  background: #3bb6ac;
+}
+
+/* =========================================================
+   SCROLLBAR
+   ========================================================= */
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.25);
+  border-radius: 20px;
+}
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 992px) {
+  .app {
+    grid-template-columns: 100%;
+  }
+  .side {
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid var(--glass-border);
+  }
+}
+
+@media (max-width: 600px) {
+  .topbar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .searchbar {
+    width: 100%;
+  }
+}

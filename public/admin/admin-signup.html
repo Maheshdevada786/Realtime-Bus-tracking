@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sign Up</title>
+  <link rel="stylesheet" href="../assets/css/auth.css" />
+</head>
+
+<body>
+  <div class="auth-container">
+    <div class="auth-card">
+      <h2 class="title">Create Account</h2>
+
+      <div class="input-group">
+        <input type="email" id="signupEmail" placeholder=" " required />
+        <label>Email</label>
+      </div>
+
+      <div class="input-group">
+        <input type="password" id="signupPassword" placeholder=" " required />
+        <label>Password</label>
+      </div>
+
+      <button class="btn" onclick="signup()">Sign Up</button>
+      <p class="switch-text">Already have an account? <a href="./login.html">Login</a></p>
+    </div>
+  </div>
+
+  <script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.5.2/firebase-app.js";
+    import { getAuth, createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/10.5.2/firebase-auth.js";
+
+    const firebaseConfig = {
+      apiKey: "AIzaSyB5TbdjcN6DkwsD9Xr34XJ2Nx6HWx2Q8i0",
+      authDomain: "bus-tracking-a0d37.firebaseapp.com",
+      databaseURL: "https://bus-tracking-a0d37-default-rtdb.asia-southeast1.firebasedatabase.app",
+      projectId: "bus-tracking-a0d37",
+      storageBucket: "bus-tracking-a0d37.firebasestorage.app",
+      messagingSenderId: "1098696368650",
+      appId: "1:1098696368650:web:87d41cea634d40166b75f3"
+    };
+
+    const app = initializeApp(firebaseConfig);
+    const auth = getAuth(app);
+
+    window.signup = () => {
+      const email = document.getElementById("signupEmail").value;
+      const password = document.getElementById("signupPassword").value;
+
+      createUserWithEmailAndPassword(auth, email, password)
+        .then(() => window.location.href = "./admin-dashboard.html")
+        .catch(err => alert(err.message));
+    };
+  </script>
+</body>
+</html>

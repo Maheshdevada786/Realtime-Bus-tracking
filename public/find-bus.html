@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Kochi Bus Tracker</title>
+<link rel="stylesheet" href="./assets/css/find-bus.css" />
+
+</head>
+<body>
+
+ <header class="site-header">
+  <div class="container header-inner">
+
+    <!-- BRAND -->
+    <div class="brand">
+      <img src="./assets/images/logo.png" alt="logo" class="logo" />
+      <span class="brand-title">MyBus</span>
+    </div>
+
+    <!-- NAVIGATION --> 
+    <nav class="top-nav">
+      <a class="nav-btn link" href="./index.html">Home</a>
+      <a class="nav-btn link" href="./about.html">About Us</a>
+      <a class="nav-btn link" href="./signup.html">Sign Up</a>
+    </nav>
+
+    <!-- PROFILE -->
+    <div class="profile">
+      <img
+        id="profilePic"
+        src="./assets/images/profile_default.jpg"
+        alt="profile"
+        class="profile-pic"
+      />
+      <a href="./profile.html" class="btn" id="profileName">Profile</a>
+    </div>
+
+  </div>
+</header>
+
+
+  <section class="hero">
+    <h1 class="hero-title">Find Your Bus Faster</h1>
+    <p class="hero-sub">Smart and simple bus route finder</p>
+  </section>
+
+  <section class="search-section container">
+    <div class="card search-card">
+      <h3>Search Route</h3>
+
+      <label class="field">
+        <span>Source Stop</span>
+        <input id="sourceInput" autocomplete="off" placeholder="Type source..." />
+      </label>
+      <div id="sourceSuggestions" class="suggestions hidden"></div>
+      <div id="selectedSource" class="selected-info"></div>
+
+      <label class="field">
+        <span>Destination Stop</span>
+        <input id="destInput" autocomplete="off" placeholder="Type destination (optional)..." />
+      </label>
+      <div id="destSuggestions" class="suggestions hidden"></div>
+      <div id="selectedDest" class="selected-info"></div>
+
+      <button id="findTripsBtn" class="btn-accent full-btn">Find Trips</button>
+
+      <div id="routesInfo" class="routes-info"></div>
+    </div>
+  </section>
+
+  <section class="sim-section container">
+    <div id="simPanel" class="sim-card hidden">
+
+      <div class="sim-header">
+        <div class="sim-route"><strong id="routeTitle"></strong> — <span id="tripId"></span></div>
+        <div class="sim-right small-info">Status: <span id="statusText">—</span></div>
+      </div>
+
+      <div class="sim-body">
+
+        <!-- LEFT: Track -->
+        <div class="track-column">
+          <div class="track-wrapper">
+            <div id="lineView" class="line-view-vertical"></div>
+          </div>
+        </div>
+
+        <!-- RIGHT: Info panel (TOP-ALIGNED) -->
+        <div class="details-panel" id="infoPanel">
+          <div class="info-row">
+            <div class="info-label">Route</div>
+            <div id="infoRoute" class="info-value">—</div>
+          </div>
+          <div class="info-row">
+            <div class="info-label">Previous stop</div>
+            <div id="infoPrev" class="info-value">—</div>
+          </div>
+          <div class="info-row">
+            <div class="info-label">Next stop</div>
+            <div id="infoNext" class="info-value">—</div>
+          </div>
+          <div class="info-row">
+            <div class="info-label">ETA</div>
+            <div id="infoEta" class="info-value">—</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer container">Kochi Bus Tracker © 2025</footer>
+<script src="./Jsfiles/find-bus.js"></script>
+
+</body>
+</html>

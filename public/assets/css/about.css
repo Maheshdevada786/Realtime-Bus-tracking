@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  color: #f0f0f0;
+  line-height: 1.6;
+}
+
+.hero {
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+}
+
+.overlay {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 2rem;
+  text-align: center;
+  border-radius: 12px;
+  backdrop-filter: blur(6px);
+}
+
+.overlay h1 {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+.overlay p {
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin: 0 auto 1.5rem;
+}
+
+.home-btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  backdrop-filter: blur(8px);
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.home-btn:hover {
+  background: rgba(0, 255, 213, 0.2);
+  color: #00ffd5;
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(0, 255, 213, 0.3);
+}
+
+.about-section {
+  padding: 4rem 2rem;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.about-card {
+  padding: 2rem;
+  border-radius: 16px;
+  transition: transform 0.3s ease;
+}
+
+.about-card:hover {
+  transform: translateY(-5px);
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+}
+
+.about-card h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+  color: #00ffd5;
+}
+
+.about-card ul {
+  list-style: none;
+  padding-left: 1rem;
+}
+
+.about-card li {
+  margin-bottom: 0.6rem;
+  font-size: 1.1rem;
+}
+
+.footer {
+  text-align: center;
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.4);
+  font-size: 0.9rem;
+  color: #ccc;
+}
+
+.simple-list {
+  list-style: none;
+  padding-left: 1rem;
+  margin-top: 1rem;
+}
+
+.simple-list li {
+  margin-bottom: 0.6rem;
+  font-size: 1.1rem;
+  padding: 0.5rem 1rem;
+  background: rgba(255, 255, 255, 0.04);
+  border-radius: 8px;
+  transition: background 0.3s ease;
+}
+
+.simple-list li:hover {
+  background: rgba(0, 255, 213, 0.08);
+}

@@ -1,0 +1,609 @@
+{
+  "buses": {
+    "bus_001": {
+      "name": "Bus 23A",
+      "route": "23A",
+      "start": "Connaught Place",
+      "end": "Dwarka Sector 21",
+      "company": "Delhi Transport",
+      "type": "AC",
+      "capacity": 40,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:00:00Z",
+      "current_location": { "lat": 28.6139, "lng": 77.2090 }
+    },
+    "bus_002": {
+      "name": "Bus 10B",
+      "route": "10B",
+      "start": "Andheri",
+      "end": "Borivali",
+      "company": "BEST Mumbai",
+      "type": "Non-AC",
+      "capacity": 55,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:02:00Z",
+      "current_location": { "lat": 19.1200, "lng": 72.8500 }
+    },
+    "bus_003": {
+      "name": "Bus 44C",
+      "route": "44C",
+      "start": "Majestic",
+      "end": "Electronic City",
+      "company": "BMTC Bengaluru",
+      "type": "AC",
+      "capacity": 50,
+      "status": "delayed",
+      "last_update": "2025-11-17T10:04:00Z",
+      "current_location": { "lat": 12.9716, "lng": 77.5946 }
+    },
+    "bus_004": {
+      "name": "Bus 85D",
+      "route": "85D",
+      "start": "Madhapur",
+      "end": "Gachibowli",
+      "company": "TSRTC Hyderabad",
+      "type": "AC",
+      "capacity": 45,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:06:00Z",
+      "current_location": { "lat": 17.4500, "lng": 78.3800 }
+    },
+    "bus_005": {
+      "name": "Bus 12E",
+      "route": "12E",
+      "start": "T Nagar",
+      "end": "Velachery",
+      "company": "MTC Chennai",
+      "type": "Non-AC",
+      "capacity": 48,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:08:00Z",
+      "current_location": { "lat": 13.0400, "lng": 80.1800 }
+    },
+    "bus_006": {
+      "name": "Bus 5K",
+      "route": "5K",
+      "start": "Salt Lake",
+      "end": "Howrah",
+      "company": "WBTC Kolkata",
+      "type": "AC",
+      "capacity": 42,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:10:00Z",
+      "current_location": { "lat": 22.5800, "lng": 88.3700 }
+    },
+    "bus_007": {
+      "name": "Bus 71A",
+      "route": "71A",
+      "start": "Civil Lines",
+      "end": "Amer",
+      "company": "RSRTC Jaipur",
+      "type": "Non-AC",
+      "capacity": 52,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:12:00Z",
+      "current_location": { "lat": 26.9124, "lng": 75.7873 }
+    },
+    "bus_008": {
+      "name": "Bus 33P",
+      "route": "33P",
+      "start": "Shivajinagar",
+      "end": "Kothrud",
+      "company": "PMPML Pune",
+      "type": "AC",
+      "capacity": 44,
+      "status": "maintenance",
+      "last_update": "2025-11-17T10:14:00Z",
+      "current_location": { "lat": 18.5204, "lng": 73.8567 }
+    },
+    "bus_009": {
+      "name": "Bus 21Q",
+      "route": "21Q",
+      "start": "Maninagar",
+      "end": "Gandhinagar",
+      "company": "AMTS Ahmedabad",
+      "type": "Non-AC",
+      "capacity": 50,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:16:00Z",
+      "current_location": { "lat": 23.0225, "lng": 72.5714 }
+    },
+    "bus_010": {
+      "name": "Bus 90Z",
+      "route": "90Z",
+      "start": "Hazratganj",
+      "end": "Gomti Nagar",
+      "company": "UPSRTC Lucknow",
+      "type": "AC",
+      "capacity": 40,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:18:00Z",
+      "current_location": { "lat": 26.8467, "lng": 80.9462 }
+    },
+
+    "bus_011": {
+      "name": "Bus 40A",
+      "route": "40A",
+      "start": "Kurukshetra",
+      "end": "Chandigarh Sector 17",
+      "company": "CTU Chandigarh",
+      "type": "Non-AC",
+      "capacity": 55,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:20:00Z",
+      "current_location": { "lat": 30.7333, "lng": 76.7794 }
+    },
+    "bus_012": {
+      "name": "Bus 18B",
+      "route": "18B",
+      "start": "Kankarbagh",
+      "end": "Patliputra",
+      "company": "BSRTC Patna",
+      "type": "Non-AC",
+      "capacity": 45,
+      "status": "delayed",
+      "last_update": "2025-11-17T10:22:00Z",
+      "current_location": { "lat": 25.5941, "lng": 85.1376 }
+    },
+    "bus_013": {
+      "name": "Bus 27C",
+      "route": "27C",
+      "start": "MP Nagar",
+      "end": "BHEL",
+      "company": "BCLL Bhopal",
+      "type": "AC",
+      "capacity": 50,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:24:00Z",
+      "current_location": { "lat": 23.2599, "lng": 77.4126 }
+    },
+    "bus_014": {
+      "name": "Bus 62D",
+      "route": "62D",
+      "start": "Rajwada",
+      "end": "Airport Road",
+      "company": "AICTSL Indore",
+      "type": "AC",
+      "capacity": 48,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:26:00Z",
+      "current_location": { "lat": 22.7196, "lng": 75.8577 }
+    },
+    "bus_015": {
+      "name": "Bus 14X",
+      "route": "14X",
+      "start": "MG Road",
+      "end": "Edappally",
+      "company": "KSRTC Kochi",
+      "type": "Non-AC",
+      "capacity": 42,
+      "status": "maintenance",
+      "last_update": "2025-11-17T10:28:00Z",
+      "current_location": { "lat": 9.9312, "lng": 76.2673 }
+    },
+    "bus_016": {
+      "name": "Bus 33F",
+      "route": "33F",
+      "start": "Adajan",
+      "end": "Varachha",
+      "company": "SMC Surat",
+      "type": "AC",
+      "capacity": 44,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:30:00Z",
+      "current_location": { "lat": 21.1702, "lng": 72.8311 }
+    },
+    "bus_017": {
+      "name": "Bus 52A",
+      "route": "52A",
+      "start": "Sitabuldi",
+      "end": "MIHAN",
+      "company": "NMPL Nagpur",
+      "type": "AC",
+      "capacity": 49,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:32:00Z",
+      "current_location": { "lat": 21.1458, "lng": 79.0882 }
+    },
+    "bus_018": {
+      "name": "Bus 80T",
+      "route": "80T",
+      "start": "Paltan Bazaar",
+      "end": "Khanapara",
+      "company": "ASTC Guwahati",
+      "type": "Non-AC",
+      "capacity": 38,
+      "status": "delayed",
+      "last_update": "2025-11-17T10:34:00Z",
+      "current_location": { "lat": 26.1445, "lng": 91.7362 }
+    },
+    "bus_019": {
+      "name": "Bus 66R",
+      "route": "66R",
+      "start": "Jalandhar",
+      "end": "Ludhiana",
+      "company": "Punjab Roadways",
+      "type": "AC",
+      "capacity": 46,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:36:00Z",
+      "current_location": { "lat": 31.3260, "lng": 75.5762 }
+    },
+    "bus_020": {
+      "name": "Bus 9P",
+      "route": "9P",
+      "start": "Belagavi",
+      "end": "Hubballi",
+      "company": "NWKRTC Karnataka",
+      "type": "Non-AC",
+      "capacity": 50,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:38:00Z",
+      "current_location": { "lat": 15.8497, "lng": 74.4977 }
+    },
+
+    "bus_021": {
+      "name": "Bus 55L",
+      "route": "55L",
+      "start": "Puri",
+      "end": "Bhubaneswar",
+      "company": "OSRTC Odisha",
+      "type": "AC",
+      "capacity": 42,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:40:00Z",
+      "current_location": { "lat": 20.2961, "lng": 85.8245 }
+    },
+    "bus_022": {
+      "name": "Bus 70B",
+      "route": "70B",
+      "start": "Jodhpur",
+      "end": "Pali",
+      "company": "RSRTC Rajasthan",
+      "type": "Non-AC",
+      "capacity": 47,
+      "status": "maintenance",
+      "last_update": "2025-11-17T10:42:00Z",
+      "current_location": { "lat": 26.2389, "lng": 73.0243 }
+    },
+    "bus_023": {
+      "name": "Bus 11X",
+      "route": "11X",
+      "start": "Gorakhpur",
+      "end": "Ayodhya",
+      "company": "UPSRTC UP",
+      "type": "AC",
+      "capacity": 44,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:44:00Z",
+      "current_location": { "lat": 26.7606, "lng": 83.3732 }
+    },
+    "bus_024": {
+      "name": "Bus 91C",
+      "route": "91C",
+      "start": "Ranchi",
+      "end": "Dhanbad",
+      "company": "JHRTC Jharkhand",
+      "type": "Non-AC",
+      "capacity": 50,
+      "status": "delayed",
+      "last_update": "2025-11-17T10:46:00Z",
+      "current_location": { "lat": 23.3441, "lng": 85.3096 }
+    },
+    "bus_025": {
+      "name": "Bus 48V",
+      "route": "48V",
+      "start": "Agra",
+      "end": "Mathura",
+      "company": "UPSRTC",
+      "type": "AC",
+      "capacity": 52,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:48:00Z",
+      "current_location": { "lat": 27.1767, "lng": 78.0081 }
+    },
+    "bus_026": {
+      "name": "Bus 37B",
+      "route": "37B",
+      "start": "Coimbatore",
+      "end": "Tiruppur",
+      "company": "TNSTC Tamil Nadu",
+      "type": "Non-AC",
+      "capacity": 48,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:50:00Z",
+      "current_location": { "lat": 11.0168, "lng": 76.9558 }
+    },
+    "bus_027": {
+      "name": "Bus 67R",
+      "route": "67R",
+      "start": "Dehradun",
+      "end": "Haridwar",
+      "company": "UTC Uttarakhand",
+      "type": "AC",
+      "capacity": 42,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:52:00Z",
+      "current_location": { "lat": 30.3165, "lng": 78.0322 }
+    },
+    "bus_028": {
+      "name": "Bus 32J",
+      "route": "32J",
+      "start": "Shillong",
+      "end": "Cherrapunji",
+      "company": "MTC Meghalaya",
+      "type": "Non-AC",
+      "capacity": 44,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:54:00Z",
+      "current_location": { "lat": 25.5788, "lng": 91.8933 }
+    },
+    "bus_029": {
+      "name": "Bus 72X",
+      "route": "72X",
+      "start": "Tirupati",
+      "end": "Chittoor",
+      "company": "APSRTC Andhra Pradesh",
+      "type": "AC",
+      "capacity": 50,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:56:00Z",
+      "current_location": { "lat": 13.6288, "lng": 79.4192 }
+    },
+    "bus_030": {
+      "name": "Bus 20V",
+      "route": "20V",
+      "start": "Kozhikode",
+      "end": "Kannur",
+      "company": "KSRTC Kerala",
+      "type": "Non-AC",
+      "capacity": 47,
+      "status": "on_route",
+      "last_update": "2025-11-17T10:58:00Z",
+      "current_location": { "lat": 11.2588, "lng": 75.7804 }
+    }
+  },
+
+  
+  "tracks": {
+    "bus_001": [
+      { "lat": 28.7041, "lng": 77.1025, "timestamp": "2025-11-17T10:00:00Z", "speed": 30 },
+      { "lat": 28.7050, "lng": 77.1040, "timestamp": "2025-11-17T10:05:00Z", "speed": 28 },
+      { "lat": 28.7062, "lng": 77.1055, "timestamp": "2025-11-17T10:10:00Z", "speed": 32 },
+      { "lat": 28.7073, "lng": 77.1070, "timestamp": "2025-11-17T10:15:00Z", "speed": 29 },
+      { "lat": 28.7081, "lng": 77.1085, "timestamp": "2025-11-17T10:20:00Z", "speed": 27 }
+    ],
+
+    "bus_002": [
+      { "lat": 19.0760, "lng": 72.8777, "timestamp": "2025-11-17T10:00:00Z", "speed": 34 },
+      { "lat": 19.0771, "lng": 72.8790, "timestamp": "2025-11-17T10:05:00Z", "speed": 36 },
+      { "lat": 19.0785, "lng": 72.8802, "timestamp": "2025-11-17T10:10:00Z", "speed": 33 },
+      { "lat": 19.0794, "lng": 72.8815, "timestamp": "2025-11-17T10:15:00Z", "speed": 35 },
+      { "lat": 19.0800, "lng": 72.8829, "timestamp": "2025-11-17T10:20:00Z", "speed": 32 }
+    ],
+
+    "bus_003": [
+      { "lat": 13.0827, "lng": 80.2707, "timestamp": "2025-11-17T10:00:00Z", "speed": 25 },
+      { "lat": 13.0835, "lng": 80.2720, "timestamp": "2025-11-17T10:05:00Z", "speed": 28 },
+      { "lat": 13.0842, "lng": 80.2738, "timestamp": "2025-11-17T10:10:00Z", "speed": 26 },
+      { "lat": 13.0850, "lng": 80.2750, "timestamp": "2025-11-17T10:15:00Z", "speed": 27 },
+      { "lat": 13.0859, "lng": 80.2765, "timestamp": "2025-11-17T10:20:00Z", "speed": 24 }
+    ],
+
+    "bus_004": [
+      { "lat": 12.9716, "lng": 77.5946, "timestamp": "2025-11-17T10:00:00Z", "speed": 31 },
+      { "lat": 12.9725, "lng": 77.5961, "timestamp": "2025-11-17T10:05:00Z", "speed": 29 },
+      { "lat": 12.9736, "lng": 77.5974, "timestamp": "2025-11-17T10:10:00Z", "speed": 34 },
+      { "lat": 12.9744, "lng": 77.5987, "timestamp": "2025-11-17T10:15:00Z", "speed": 32 },
+      { "lat": 12.9752, "lng": 77.6001, "timestamp": "2025-11-17T10:20:00Z", "speed": 30 }
+    ],
+
+    "bus_005": [
+      { "lat": 17.3850, "lng": 78.4867, "timestamp": "2025-11-17T10:00:00Z", "speed": 33 },
+      { "lat": 17.3862, "lng": 78.4880, "timestamp": "2025-11-17T10:05:00Z", "speed": 31 },
+      { "lat": 17.3870, "lng": 78.4894, "timestamp": "2025-11-17T10:10:00Z", "speed": 35 },
+      { "lat": 17.3881, "lng": 78.4908, "timestamp": "2025-11-17T10:15:00Z", "speed": 34 },
+      { "lat": 17.3890, "lng": 78.4923, "timestamp": "2025-11-17T10:20:00Z", "speed": 32 }
+    ],
+
+    "bus_006": [
+      { "lat": 22.5726, "lng": 88.3639, "timestamp": "2025-11-17T10:00:00Z", "speed": 27 },
+      { "lat": 22.5734, "lng": 88.3652, "timestamp": "2025-11-17T10:05:00Z", "speed": 29 },
+      { "lat": 22.5748, "lng": 88.3668, "timestamp": "2025-11-17T10:10:00Z", "speed": 28 },
+      { "lat": 22.5756, "lng": 88.3680, "timestamp": "2025-11-17T10:15:00Z", "speed": 30 },
+      { "lat": 22.5764, "lng": 88.3694, "timestamp": "2025-11-17T10:20:00Z", "speed": 26 }
+    ],
+
+    "bus_007": [
+      { "lat": 18.5204, "lng": 73.8567, "timestamp": "2025-11-17T10:00:00Z", "speed": 34 },
+      { "lat": 18.5216, "lng": 73.8582, "timestamp": "2025-11-17T10:05:00Z", "speed": 35 },
+      { "lat": 18.5224, "lng": 73.8599, "timestamp": "2025-11-17T10:10:00Z", "speed": 33 },
+      { "lat": 18.5233, "lng": 73.8610, "timestamp": "2025-11-17T10:15:00Z", "speed": 30 },
+      { "lat": 18.5240, "lng": 73.8621, "timestamp": "2025-11-17T10:20:00Z", "speed": 28 }
+    ],
+
+    "bus_008": [
+      { "lat": 26.9124, "lng": 75.7873, "timestamp": "2025-11-17T10:00:00Z", "speed": 29 },
+      { "lat": 26.9138, "lng": 75.7888, "timestamp": "2025-11-17T10:05:00Z", "speed": 30 },
+      { "lat": 26.9150, "lng": 75.7901, "timestamp": "2025-11-17T10:10:00Z", "speed": 31 },
+      { "lat": 26.9162, "lng": 75.7914, "timestamp": "2025-11-17T10:15:00Z", "speed": 28 },
+      { "lat": 26.9174, "lng": 75.7925, "timestamp": "2025-11-17T10:20:00Z", "speed": 27 }
+    ],
+
+    "bus_009": [
+      { "lat": 26.8467, "lng": 80.9462, "timestamp": "2025-11-17T10:00:00Z", "speed": 26 },
+      { "lat": 26.8479, "lng": 80.9475, "timestamp": "2025-11-17T10:05:00Z", "speed": 27 },
+      { "lat": 26.8490, "lng": 80.9489, "timestamp": "2025-11-17T10:10:00Z", "speed": 24 },
+      { "lat": 26.8502, "lng": 80.9501, "timestamp": "2025-11-17T10:15:00Z", "speed": 25 },
+      { "lat": 26.8514, "lng": 80.9516, "timestamp": "2025-11-17T10:20:00Z", "speed": 23 }
+    ],
+
+    "bus_010": [
+      { "lat": 23.2599, "lng": 77.4126, "timestamp": "2025-11-17T10:00:00Z", "speed": 32 },
+      { "lat": 23.2610, "lng": 77.4141, "timestamp": "2025-11-17T10:05:00Z", "speed": 31 },
+      { "lat": 23.2622, "lng": 77.4155, "timestamp": "2025-11-17T10:10:00Z", "speed": 33 },
+      { "lat": 23.2631, "lng": 77.4170, "timestamp": "2025-11-17T10:15:00Z", "speed": 30 },
+      { "lat": 23.2643, "lng": 77.4182, "timestamp": "2025-11-17T10:20:00Z", "speed": 29 }
+    ],
+
+    "bus_011": [
+      { "lat": 21.1702, "lng": 72.8311, "timestamp": "2025-11-17T10:00:00Z", "speed": 29 },
+      { "lat": 21.1714, "lng": 72.8325, "timestamp": "2025-11-17T10:05:00Z", "speed": 28 },
+      { "lat": 21.1726, "lng": 72.8340, "timestamp": "2025-11-17T10:10:00Z", "speed": 26 },
+      { "lat": 21.1738, "lng": 72.8354, "timestamp": "2025-11-17T10:15:00Z", "speed": 25 },
+      { "lat": 21.1750, "lng": 72.8368, "timestamp": "2025-11-17T10:20:00Z", "speed": 27 }
+    ],
+
+    "bus_012": [
+      { "lat": 25.3176, "lng": 82.9739, "timestamp": "2025-11-17T10:00:00Z", "speed": 28 },
+      { "lat": 25.3188, "lng": 82.9752, "timestamp": "2025-11-17T10:05:00Z", "speed": 30 },
+      { "lat": 25.3199, "lng": 82.9765, "timestamp": "2025-11-17T10:10:00Z", "speed": 31 },
+      { "lat": 25.3212, "lng": 82.9779, "timestamp": "2025-11-17T10:15:00Z", "speed": 32 },
+      { "lat": 25.3224, "lng": 82.9793, "timestamp": "2025-11-17T10:20:00Z", "speed": 29 }
+    ],
+
+    "bus_013": [
+      { "lat": 11.0168, "lng": 76.9558, "timestamp": "2025-11-17T10:00:00Z", "speed": 35 },
+      { "lat": 11.0179, "lng": 76.9572, "timestamp": "2025-11-17T10:05:00Z", "speed": 33 },
+      { "lat": 11.0190, "lng": 76.9584, "timestamp": "2025-11-17T10:10:00Z", "speed": 34 },
+      { "lat": 11.0201, "lng": 76.9596, "timestamp": "2025-11-17T10:15:00Z", "speed": 32 },
+      { "lat": 11.0214, "lng": 76.9609, "timestamp": "2025-11-17T10:20:00Z", "speed": 31 }
+    ],
+
+    "bus_014": [
+      { "lat": 15.2993, "lng": 74.1240, "timestamp": "2025-11-17T10:00:00Z", "speed": 22 },
+      { "lat": 15.3005, "lng": 74.1254, "timestamp": "2025-11-17T10:05:00Z", "speed": 21 },
+      { "lat": 15.3017, "lng": 74.1268, "timestamp": "2025-11-17T10:10:00Z", "speed": 23 },
+      { "lat": 15.3029, "lng": 74.1282, "timestamp": "2025-11-17T10:15:00Z", "speed": 24 },
+      { "lat": 15.3041, "lng": 74.1296, "timestamp": "2025-11-17T10:20:00Z", "speed": 20 }
+    ],
+
+    "bus_015": [
+      { "lat": 10.8505, "lng": 76.2711, "timestamp": "2025-11-17T10:00:00Z", "speed": 28 },
+      { "lat": 10.8517, "lng": 76.2725, "timestamp": "2025-11-17T10:05:00Z", "speed": 29 },
+      { "lat": 10.8529, "lng": 76.2738, "timestamp": "2025-11-17T10:10:00Z", "speed": 27 },
+      { "lat": 10.8540, "lng": 76.2751, "timestamp": "2025-11-17T10:15:00Z", "speed": 26 },
+      { "lat": 10.8553, "lng": 76.2764, "timestamp": "2025-11-17T10:20:00Z", "speed": 25 }
+    ],
+
+    "bus_016": [
+      { "lat": 19.9975, "lng": 73.7898, "timestamp": "2025-11-17T10:00:00Z", "speed": 30 },
+      { "lat": 19.9987, "lng": 73.7912, "timestamp": "2025-11-17T10:05:00Z", "speed": 32 },
+      { "lat": 20.0000, "lng": 73.7925, "timestamp": "2025-11-17T10:10:00Z", "speed": 28 },
+      { "lat": 20.0013, "lng": 73.7939, "timestamp": "2025-11-17T10:15:00Z", "speed": 29 },
+      { "lat": 20.0025, "lng": 73.7950, "timestamp": "2025-11-17T10:20:00Z", "speed": 27 }
+    ],
+
+    "bus_017": [
+      { "lat": 25.4358, "lng": 81.8463, "timestamp": "2025-11-17T10:00:00Z", "speed": 27 },
+      { "lat": 25.4372, "lng": 81.8478, "timestamp": "2025-11-17T10:05:00Z", "speed": 28 },
+      { "lat": 25.4386, "lng": 81.8491, "timestamp": "2025-11-17T10:10:00Z", "speed": 26 },
+      { "lat": 25.4400, "lng": 81.8504, "timestamp": "2025-11-17T10:15:00Z", "speed": 25 },
+      { "lat": 25.4414, "lng": 81.8518, "timestamp": "2025-11-17T10:20:00Z", "speed": 27 }
+    ],
+
+    "bus_018": [
+      { "lat": 23.0225, "lng": 72.5714, "timestamp": "2025-11-17T10:00:00Z", "speed": 33 },
+      { "lat": 23.0239, "lng": 72.5729, "timestamp": "2025-11-17T10:05:00Z", "speed": 34 },
+      { "lat": 23.0251, "lng": 72.5744, "timestamp": "2025-11-17T10:10:00Z", "speed": 32 },
+      { "lat": 23.0264, "lng": 72.5757, "timestamp": "2025-11-17T10:15:00Z", "speed": 31 },
+      { "lat": 23.0278, "lng": 72.5771, "timestamp": "2025-11-17T10:20:00Z", "speed": 29 }
+    ],
+
+    "bus_019": [
+      { "lat": 22.7196, "lng": 75.8577, "timestamp": "2025-11-17T10:00:00Z", "speed": 34 },
+      { "lat": 22.7208, "lng": 75.8590, "timestamp": "2025-11-17T10:05:00Z", "speed": 32 },
+      { "lat": 22.7219, "lng": 75.8604, "timestamp": "2025-11-17T10:10:00Z", "speed": 33 },
+      { "lat": 22.7231, "lng": 75.8618, "timestamp": "2025-11-17T10:15:00Z", "speed": 30 },
+      { "lat": 22.7243, "lng": 75.8631, "timestamp": "2025-11-17T10:20:00Z", "speed": 31 }
+    ],
+
+    "bus_020": [
+      { "lat": 21.2514, "lng": 81.6296, "timestamp": "2025-11-17T10:00:00Z", "speed": 27 },
+      { "lat": 21.2528, "lng": 81.6309, "timestamp": "2025-11-17T10:05:00Z", "speed": 28 },
+      { "lat": 21.2541, "lng": 81.6323, "timestamp": "2025-11-17T10:10:00Z", "speed": 26 },
+      { "lat": 21.2554, "lng": 81.6336, "timestamp": "2025-11-17T10:15:00Z", "speed": 25 },
+      { "lat": 21.2568, "lng": 81.6349, "timestamp": "2025-11-17T10:20:00Z", "speed": 27 }
+    ],
+
+    "bus_021": [
+      { "lat": 9.9312, "lng": 76.2673, "timestamp": "2025-11-17T10:00:00Z", "speed": 29 },
+      { "lat": 9.9326, "lng": 76.2686, "timestamp": "2025-11-17T10:05:00Z", "speed": 28 },
+      { "lat": 9.9339, "lng": 76.2699, "timestamp": "2025-11-17T10:10:00Z", "speed": 26 },
+      { "lat": 9.9353, "lng": 76.2712, "timestamp": "2025-11-17T10:15:00Z", "speed": 27 },
+      { "lat": 9.9366, "lng": 76.2725, "timestamp": "2025-11-17T10:20:00Z", "speed": 25 }
+    ],
+
+    "bus_022": [
+      { "lat": 24.5854, "lng": 73.7125, "timestamp": "2025-11-17T10:00:00Z", "speed": 23 },
+      { "lat": 24.5867, "lng": 73.7138, "timestamp": "2025-11-17T10:05:00Z", "speed": 22 },
+      { "lat": 24.5879, "lng": 73.7152, "timestamp": "2025-11-17T10:10:00Z", "speed": 24 },
+      { "lat": 24.5892, "lng": 73.7166, "timestamp": "2025-11-17T10:15:00Z", "speed": 25 },
+      { "lat": 24.5905, "lng": 73.7179, "timestamp": "2025-11-17T10:20:00Z", "speed": 23 }
+    ],
+
+    "bus_023": [
+      { "lat": 19.2183, "lng": 72.9781, "timestamp": "2025-11-17T10:00:00Z", "speed": 30 },
+      { "lat": 19.2195, "lng": 72.9794, "timestamp": "2025-11-17T10:05:00Z", "speed": 32 },
+      { "lat": 19.2206, "lng": 72.9807, "timestamp": "2025-11-17T10:10:00Z", "speed": 31 },
+      { "lat": 19.2219, "lng": 72.9820, "timestamp": "2025-11-17T10:15:00Z", "speed": 29 },
+      { "lat": 19.2231, "lng": 72.9834, "timestamp": "2025-11-17T10:20:00Z", "speed": 28 }
+    ],
+
+    "bus_024": [
+      { "lat": 18.6298, "lng": 73.7997, "timestamp": "2025-11-17T10:00:00Z", "speed": 30 },
+      { "lat": 18.6310, "lng": 73.8010, "timestamp": "2025-11-17T10:05:00Z", "speed": 29 },
+      { "lat": 18.6322, "lng": 73.8024, "timestamp": "2025-11-17T10:10:00Z", "speed": 31 },
+      { "lat": 18.6335, "lng": 73.8037, "timestamp": "2025-11-17T10:15:00Z", "speed": 28 },
+      { "lat": 18.6349, "lng": 73.8051, "timestamp": "2025-11-17T10:20:00Z", "speed": 27 }
+    ],
+
+    "bus_025": [
+      { "lat": 15.8281, "lng": 78.0373, "timestamp": "2025-11-17T10:00:00Z", "speed": 33 },
+      { "lat": 15.8293, "lng": 78.0387, "timestamp": "2025-11-17T10:05:00Z", "speed": 32 },
+      { "lat": 15.8307, "lng": 78.0402, "timestamp": "2025-11-17T10:10:00Z", "speed": 34 },
+      { "lat": 15.8320, "lng": 78.0415, "timestamp": "2025-11-17T10:15:00Z", "speed": 31 },
+      { "lat": 15.8334, "lng": 78.0428, "timestamp": "2025-11-17T10:20:00Z", "speed": 30 }
+    ],
+
+    "bus_026": [
+      { "lat": 26.8500, "lng": 75.8240, "timestamp": "2025-11-17T10:00:00Z", "speed": 28 },
+      { "lat": 26.8512, "lng": 75.8253, "timestamp": "2025-11-17T10:05:00Z", "speed": 29 },
+      { "lat": 26.8524, "lng": 75.8266, "timestamp": "2025-11-17T10:10:00Z", "speed": 30 },
+      { "lat": 26.8537, "lng": 75.8279, "timestamp": "2025-11-17T10:15:00Z", "speed": 27 },
+      { "lat": 26.8550, "lng": 75.8292, "timestamp": "2025-11-17T10:20:00Z", "speed": 26 }
+    ],
+
+    "bus_027": [
+      { "lat": 27.1767, "lng": 78.0081, "timestamp": "2025-11-17T10:00:00Z", "speed": 20 },
+      { "lat": 27.1779, "lng": 78.0094, "timestamp": "2025-11-17T10:05:00Z", "speed": 22 },
+      { "lat": 27.1790, "lng": 78.0108, "timestamp": "2025-11-17T10:10:00Z", "speed": 21 },
+      { "lat": 27.1802, "lng": 78.0122, "timestamp": "2025-11-17T10:15:00Z", "speed": 23 },
+      { "lat": 27.1815, "lng": 78.0134, "timestamp": "2025-11-17T10:20:00Z", "speed": 19 }
+    ],
+
+    "bus_028": [
+      { "lat": 31.1048, "lng": 77.1734, "timestamp": "2025-11-17T10:00:00Z", "speed": 18 },
+      { "lat": 31.1059, "lng": 77.1747, "timestamp": "2025-11-17T10:05:00Z", "speed": 19 },
+      { "lat": 31.1070, "lng": 77.1760, "timestamp": "2025-11-17T10:10:00Z", "speed": 20 },
+      { "lat": 31.1081, "lng": 77.1773, "timestamp": "2025-11-17T10:15:00Z", "speed": 17 },
+      { "lat": 31.1093, "lng": 77.1785, "timestamp": "2025-11-17T10:20:00Z", "speed": 16 }
+    ],
+
+    "bus_029": [
+      { "lat": 34.1526, "lng": 77.5770, "timestamp": "2025-11-17T10:00:00Z", "speed": 15 },
+      { "lat": 34.1537, "lng": 77.5783, "timestamp": "2025-11-17T10:05:00Z", "speed": 17 },
+      { "lat": 34.1549, "lng": 77.5796, "timestamp": "2025-11-17T10:10:00Z", "speed": 16 },
+      { "lat": 34.1561, "lng": 77.5808, "timestamp": "2025-11-17T10:15:00Z", "speed": 18 },
+      { "lat": 34.1574, "lng": 77.5820, "timestamp": "2025-11-17T10:20:00Z", "speed": 15 }
+    ],
+
+    "bus_030": [
+      { "lat": 23.3441, "lng": 85.3096, "timestamp": "2025-11-17T10:00:00Z", "speed": 30 },
+      { "lat": 23.3453, "lng": 85.3110, "timestamp": "2025-11-17T10:05:00Z", "speed": 32 },
+      { "lat": 23.3465, "lng": 85.3124, "timestamp": "2025-11-17T10:10:00Z", "speed": 31 },
+      { "lat": 23.3477, "lng": 85.3137, "timestamp": "2025-11-17T10:15:00Z", "speed": 29 },
+      { "lat": 23.3490, "lng": 85.3150, "timestamp": "2025-11-17T10:20:00Z", "speed": 28 }
+    ]
+  }
+}

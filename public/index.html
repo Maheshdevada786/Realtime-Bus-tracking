@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>MyBus — Live Bus Tracking</title>
+
+    <!-- Leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <!-- Page CSS -->
+    <link rel="stylesheet" href="./assets/css/index-style.css" />
+  </head>
+  <body>
+    <!-- HEADER -->
+    <header class="site-header">
+      <div class="container header-inner">
+        <div class="brand">
+          <img src="./assets/images/logo.png" alt="logo" class="logo" />
+          <span class="brand-title">MyBus</span>
+        </div>
+
+        <nav class="top-nav">
+          <a class="nav-btn link" href="./find-bus.html">Find Bus</a>
+          <a class="nav-btn link" href="./about.html">About Us</a>
+          <a class="nav-btn link" href="./signup.html">Sign Up</a>
+        </nav>
+
+        <div class="profile">
+          <img
+            id="profilePic"
+            src="./assets/images/profile_default.jpg"
+            alt="profile"
+            class="profile-pic"
+          />
+          <a href="./profile.html" class="btn" id="profileName">Profile</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container hero-inner">
+        <h1 class="hero-title">Live Bus Tracking</h1>
+        <p class="hero-sub">
+          Real-time locations, routes and ETAs — designed for small cities.
+        </p>
+        <div class="cta-row">
+          <button class="btn-primary" id="getStarted">Get Started</button>
+        </div>
+      </div>
+    </section><br><br>
+
+    <!-- EXPLORE / MAP -->
+    <section class="explore">
+      <div class="container explore-inner">
+        <!-- left: inputs -->
+        <div class="explore-left card glass">
+          <h3>Explore places</h3>
+
+          <label class="field">
+            <span>Starting place</span>
+            <input
+              type="text"
+              id="startInput"
+              placeholder="e.g. Phagwara, Punjab"
+            />
+          </label>
+
+          <label class="field">
+            <span>Destination</span>
+            <input
+              type="text"
+              id="destInput"
+              placeholder="e.g. Jalandhar, Punjab"
+            />
+          </label>
+
+          <div class="controls">
+            <button id="searchBtn" class="btn-accent">Search</button>
+            <button id="clearBtn" class="btn-ghost">Clear</button>
+            <a href="find-bus.html" class="btn-accent">Track</a>
+
+          </div>
+
+          <div class="legend">
+            <div><span class="dot blue"></span> Route</div>
+            <div><span class="dot green"></span> Live Bus</div>
+          </div>
+        </div>
+
+        <!-- right: map -->
+        <div class="explore-right card map-card" id="mapCard">
+          <div id="map" aria-label="Live map"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SLIDESHOW + ABOUT -->
+    
+     <div class="center-wrapper">
+      <h2 class="about-services-title">About Our Services</h2>
+
+      <section class="below container">
+          <div class="slide card glass">
+            <div class="slideshow" id="slideshow">
+              <img src="./assets/images/bus1.jpg" alt="town1" />
+              <img src="./assets/images/bus2.jpg" alt="town2" />
+              <img src="./assets/images/bus3.jpg" alt="town3" />
+            </div>
+          </div>
+    
+          <div class="about card glass">
+            <h3>Mapped town locations</h3>
+            <p>
+              We map small town public transport and display live bus locations on
+              an easy map. Search by start and destination — then track the bus in
+              real time on the map. Designed for low-bandwidth and mobile users.
+            </p>
+          </div>
+      </section>
+    </div>
+ 
+
+    <footer class="site-footer">
+      <div class="container">
+        © <span id="year"></span> MyBus • All Rights Reserved
+      </div>
+    </footer>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="./Jsfiles/index.js" type="module"></script>
+  </body>
+</html>
