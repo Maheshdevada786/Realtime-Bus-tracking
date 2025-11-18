@@ -119,6 +119,67 @@
           </div>
       </section>
     </div>
+
+
+    <!-- Floating Feedback Button -->
+    <div id="feedback-btn">Feedback</div>
+    
+    <!-- Feedback Popup -->
+    <div id="feedback-popup">
+      <div class="popup-content">
+        <span id="close-popup">&times;</span>
+        <h2>Send Feedback</h2>
+    
+        <form id="feedbackForm">
+          <input type="text" id="fb-name" placeholder="Your Name" required>
+          <input type="email" id="fb-email" placeholder="Your Email" required>
+          <textarea id="fb-message" placeholder="Your Message" required></textarea>
+    
+          <button type="submit">Send</button>
+        </form>
+      </div>
+    </div>
+    
+    <script>
+    /* Floating Button Open */
+    document.getElementById("feedback-btn").onclick = () => {
+      document.getElementById("feedback-popup").style.display = "flex";
+    };
+    
+    /* Popup Close */
+    document.getElementById("close-popup").onclick = () => {
+      document.getElementById("feedback-popup").style.display = "none";
+    };
+
+    
+    /* Close Popup when clicking outside the card */
+    document.getElementById("feedback-popup").addEventListener("click", function (e) {
+      if (e.target === this) {
+        this.style.display = "none";
+      }
+    });
+    
+    /* Form Submit → Gmail */
+    document.getElementById("feedbackForm").addEventListener("submit", function(e){
+      e.preventDefault();
+    
+      const name = document.getElementById("fb-name").value;
+      const email = document.getElementById("fb-email").value;
+      const message = document.getElementById("fb-message").value;
+    
+      const gmail = "vedasbharatindia118@gmail.com"; // ← CHANGE THIS!
+    
+      const subject = encodeURIComponent("New Feedback from " + name);
+      const body = encodeURIComponent(
+        "Name: " + name + "\n" +
+        "Email: " + email + "\n\n" +
+        "Message:\n" + message
+      );
+    
+      window.location.href = `mailto:${gmail}?subject=${subject}&body=${body}`;
+    });
+    </script>
+    
  
 
     <footer class="site-footer">

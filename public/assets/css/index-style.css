@@ -423,3 +423,116 @@ border-left: 10%;
 }
 
 
+/* Floating Feedback Button */
+#feedback-btn {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  background: linear-gradient(45deg, #00c6ff, #0072ff);
+  color: white;
+  padding: 14px 25px;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 6px 25px rgba(0,0,0,0.4);
+  transition: 0.3s ease;
+  z-index: 9999;
+}
+
+#feedback-btn:hover {
+  transform: scale(1.08);
+  box-shadow: 0 10px 35px rgba(0,0,0,0.5);
+}
+
+/* Popup Overlay */
+#feedback-popup {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.55);
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 99999;
+}
+
+/* Popup Card */
+.popup-content {
+  width: 90%;
+  max-width: 420px;
+  background: rgba(255,255,255,0.15);
+  backdrop-filter: blur(14px);
+  padding: 30px;
+  border-radius: 18px;
+  position: relative;
+  color: white;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.4);
+}
+
+/* Close Button */
+#close-popup {
+  position: absolute;
+  right: 18px;
+  top: 18px;
+  font-size: 28px;
+  cursor: pointer;
+  color: #fff;
+  transition: 0.3s ease;
+}
+
+#close-popup:hover {
+  transform: rotate(90deg);
+}
+
+/* Form Inputs */
+#feedbackForm input,
+#feedbackForm textarea {
+  width: 100%;
+  padding: 12px;
+  margin-top: 12px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  background: rgba(255,255,255,0.2);
+  color: white;
+}
+
+#feedbackForm textarea {
+  height: 110px;
+  resize: none;
+}
+
+/* Submit Button */
+#feedbackForm button {
+  width: 100%;
+  padding: 12px;
+  background: linear-gradient(45deg, #ff512f, #dd2476);
+  border: none;
+  margin-top: 15px;
+  font-size: 16px;
+  border-radius: 10px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#feedbackForm button:hover {
+  transform: scale(1.05);
+}
+
+/* Prevent popup-content from triggering outside click */
+.popup-content {
+  pointer-events: auto;
+}
+
+/* Allow background overlay to capture click */
+#feedback-popup {
+  pointer-events: auto;
+}
+
+
